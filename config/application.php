@@ -57,6 +57,17 @@ define('DB_COLLATE', '');
 $table_prefix = env('DB_PREFIX') ?: 'wp_';
 
 /**
+ * Network
+ */
+define('WP_ALLOW_MULTISITE', true);
+define('MULTISITE', env('MULTISITE') ? env('MULTISITE') : false);
+define('SUBDOMAIN_INSTALL', env('SUBDOMAIN_INSTALL'));
+define('DOMAIN_CURRENT_SITE', env('DOMAIN_CURRENT_SITE'));
+define('PATH_CURRENT_SITE', env('PATH_CURRENT_SITE') ? env('PATH_CURRENT_SITE') : '/');
+define('SITE_ID_CURRENT_SITE', env('SITE_ID_CURRENT_SITE') ? env('SITE_ID_CURRENT_SITE') : 1);
+define('BLOG_ID_CURRENT_SITE', env('BLOG_ID_CURRENT_SITE') ? env('BLOG_ID_CURRENT_SITE') : 1);
+
+/**
  * Authentication Unique Keys and Salts
  */
 define('AUTH_KEY', env('AUTH_KEY'));
