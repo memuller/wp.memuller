@@ -29,6 +29,10 @@
   "repositories": [
     {
       "type": "composer",
+      "url": "https://packagist.org"
+    },
+    {
+      "type": "composer",
       "url": "https://wpackagist.org"
     }
   ],
@@ -38,7 +42,20 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.9.4",
     "oscarotero/env": "^1.1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "wpackagist-plugin/cmb2": "^2.3",
+    "wpackagist-plugin/gutenberg": "^2.4",
+    "wpackagist-plugin/debug-bar": "^0.9.0",
+    "wpackagist-plugin/debug-bar-console": "^0.3.0",
+    "wpackagist-plugin/debug-bar-extender": "^0.5.0",
+    "wpackagist-plugin/wordpress-importer": "^0.6.4",
+    "webdevstudios/cmb2-attached-posts": "^1.2",
+    "roots/multisite-url-fixer": "^1.1",
+    "wpackagist-plugin/jetpack": "^6.1",
+    "wpackagist-plugin/protocol-relative-theme-assets": "^1.0",
+    "wpackagist-plugin/monkeyman-rewrite-analyzer": "^1.0",
+    "wpackagist-plugin/admin-color-schemes": "^2.2",
+    "wpackagist-plugin/debug-bar-transients": "^0.5.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"

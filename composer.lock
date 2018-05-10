@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c2485b0cce1d0754523867d2e2aff24f",
+    "content-hash": "36ba4e6708ab6f8569d777e76e3b77a3",
     "packages": [
         {
             "name": "composer/installers",
@@ -297,6 +297,43 @@
             "time": "2017-07-17T20:41:59+00:00"
         },
         {
+            "name": "roots/multisite-url-fixer",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/roots/multisite-url-fixer.git",
+                "reference": "e664180d71b29ae8362261ae3bc772a28eac2308"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/roots/multisite-url-fixer/zipball/e664180d71b29ae8362261ae3bc772a28eac2308",
+                "reference": "e664180d71b29ae8362261ae3bc772a28eac2308",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.0.0"
+            },
+            "require-dev": {
+                "squizlabs/php_codesniffer": "^3.1"
+            },
+            "type": "wordpress-muplugin",
+            "autoload": {
+                "psr-4": {
+                    "Roots\\Bedrock\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Fixes WordPress issues with home and site URL on multisite when using Bedrock",
+            "homepage": "https://roots.io/bedrock/",
+            "keywords": [
+                "wordpress"
+            ],
+            "time": "2017-10-17T21:07:50+00:00"
+        },
+        {
             "name": "roots/wp-password-bcrypt",
             "version": "1.0.0",
             "source": {
@@ -402,6 +439,271 @@
                 "environment"
             ],
             "time": "2016-09-01T10:05:43+00:00"
+        },
+        {
+            "name": "webdevstudios/cmb2-attached-posts",
+            "version": "v1.2.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/CMB2/cmb2-attached-posts.git",
+                "reference": "556701d8f032931838c524ddc55c40b177a0e1a8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/CMB2/cmb2-attached-posts/zipball/556701d8f032931838c524ddc55c40b177a0e1a8",
+                "reference": "556701d8f032931838c524ddc55c40b177a0e1a8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">5.2.4"
+            },
+            "suggest": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "WebDevStudios",
+                    "email": "contact@webdevstudios.com",
+                    "homepage": "https://github.com/WebDevStudios",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Custom field for CMB2 for creating post relationships.",
+            "homepage": "https://github.com/WebDevStudios/CMB2",
+            "keywords": [
+                "attached",
+                "metabox",
+                "plugin",
+                "post",
+                "relationship",
+                "wordpress"
+            ],
+            "time": "2017-11-09T18:44:20+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/admin-color-schemes",
+            "version": "2.2",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/admin-color-schemes/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/admin-color-schemes.zip?timestamp=1450888755",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/admin-color-schemes/"
+        },
+        {
+            "name": "wpackagist-plugin/cmb2",
+            "version": "2.3.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/cmb2/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/cmb2.zip?timestamp=1513780345",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/cmb2/"
+        },
+        {
+            "name": "wpackagist-plugin/debug-bar",
+            "version": "0.9",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/debug-bar/",
+                "reference": "tags/0.9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar.0.9.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/debug-bar/"
+        },
+        {
+            "name": "wpackagist-plugin/debug-bar-console",
+            "version": "0.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/debug-bar-console/",
+                "reference": "tags/0.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-console.0.3.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/debug-bar-console/"
+        },
+        {
+            "name": "wpackagist-plugin/debug-bar-extender",
+            "version": "0.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/debug-bar-extender/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-extender.zip?timestamp=1314968773",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/debug-bar-extender/"
+        },
+        {
+            "name": "wpackagist-plugin/debug-bar-transients",
+            "version": "0.5",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/debug-bar-transients/",
+                "reference": "tags/0.5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/debug-bar-transients.0.5.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/debug-bar-transients/"
+        },
+        {
+            "name": "wpackagist-plugin/gutenberg",
+            "version": "2.8.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/gutenberg/",
+                "reference": "tags/2.8.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/gutenberg.2.8.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/gutenberg/"
+        },
+        {
+            "name": "wpackagist-plugin/jetpack",
+            "version": "6.1",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/jetpack/",
+                "reference": "tags/6.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/jetpack.6.1.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/jetpack/"
+        },
+        {
+            "name": "wpackagist-plugin/monkeyman-rewrite-analyzer",
+            "version": "1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/monkeyman-rewrite-analyzer/",
+                "reference": "tags/1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/monkeyman-rewrite-analyzer.1.0.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/monkeyman-rewrite-analyzer/"
+        },
+        {
+            "name": "wpackagist-plugin/protocol-relative-theme-assets",
+            "version": "1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/protocol-relative-theme-assets/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/protocol-relative-theme-assets.zip?timestamp=1400708203",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/protocol-relative-theme-assets/"
+        },
+        {
+            "name": "wpackagist-plugin/wordpress-importer",
+            "version": "0.6.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wordpress-importer/",
+                "reference": "tags/0.6.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-importer.0.6.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wordpress-importer/"
         }
     ],
     "packages-dev": [
