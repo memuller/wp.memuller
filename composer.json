@@ -55,7 +55,13 @@
     "wpackagist-plugin/protocol-relative-theme-assets": "^1.0",
     "wpackagist-plugin/monkeyman-rewrite-analyzer": "^1.0",
     "wpackagist-plugin/admin-color-schemes": "^2.2",
-    "wpackagist-plugin/debug-bar-transients": "^0.5.0"
+    "wpackagist-plugin/debug-bar-transients": "^0.5.0",
+    "wpackagist-plugin/multilingual-press": "^2.11",
+    "wpackagist-plugin/google-analytics-dashboard-for-wp": "^5.3",
+    "wpackagist-plugin/crayon-syntax-highlighter": "^2.8",
+    "wpackagist-plugin/wp-super-cache": "^1.6",
+    "wpackagist-plugin/akismet": "^4.0",
+    "wpackagist-plugin/autodescription": "^3.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
