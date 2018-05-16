@@ -18,3 +18,7 @@ web/.htaccess
 # Composer
 vendor/*
 !vendor/.gitkeep
+
+# Deployment stuff
+/deploy/config
+/deploy/data
