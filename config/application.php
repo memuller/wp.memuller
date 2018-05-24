@@ -52,7 +52,7 @@ define('DB_NAME', env('DB_NAME'));
 define('DB_USER', env('DB_USER'));
 define('DB_PASSWORD', env('DB_PASSWORD'));
 define('DB_HOST', env('DB_HOST') ?: 'localhost');
-define('DB_CHARSET', 'utf8mb4');
+define('DB_CHARSET', env('DB_CHARSET') ?: 'utf8mb4');
 define('DB_COLLATE', '');
 $table_prefix = env('DB_PREFIX') ?: 'wp_';
 
@@ -60,7 +60,7 @@ $table_prefix = env('DB_PREFIX') ?: 'wp_';
  * Network
  */
 define('WP_ALLOW_MULTISITE', true);
-define('MULTISITE', env('MULTISITE') ? env('MULTISITE') : false);
+define('MULTISITE', env('MULTISITE') ?: false);
 define('SUBDOMAIN_INSTALL', env('SUBDOMAIN_INSTALL'));
 define('DOMAIN_CURRENT_SITE', env('DOMAIN_CURRENT_SITE'));
 define('PATH_CURRENT_SITE', env('PATH_CURRENT_SITE') ?: '/');
