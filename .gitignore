@@ -22,3 +22,6 @@ vendor/*
 # Deployment stuff
 /deploy/config
 /deploy/data
+
+# Docker
+/docker/mysql/dump.sql
