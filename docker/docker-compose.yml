@@ -1,0 +1,44 @@
+version: '3.3'
+
+services:
+
+  web:
+    image: webdevops/php-nginx:alpine-php7
+    volumes:
+      - ./../:/app
+      - ./nginx/vhost.conf:/opt/docker/etc/nginx/vhost.conf
+    environment:
+      - VIRTUAL_HOST=memuller.test
+    links:
+      - db
+
+  db:
+    image: mysql:5.5
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
+      MYSQL_DATABASE: memuller
+    volumes:
+      - ./mysql:/docker-entrypoint-initdb.d
+
+  ## Nginx-proxy, sends memuller.test to port 80
+  #  run if you don't have one already on
+  #  see README for details
+  
+  # nginx-proxy:
+  #   image: jwilder/nginx-proxy
+  #   ports:
+  #     - "80:80"
+  #   volumes:
+  #     - /var/run/docker.sock:/tmp/docker.sock:ro
+
+  ## Adminer MySQL admin interface, at localhost:3001
+  
+  # admininastror:
+  #   image: adminer
+  #   ports:
+  #     - "3001:8080"
+  #   environment:
+  #     ADMINER_DESIGN: pepa-linha
+  #   links:
+  #     - db
