@@ -6,12 +6,12 @@ ln -s /home/wp/data/config/memuller.conf /etc/nginx/sites-enabled/ ;
 ln -s /home/wp/data/config/.env /home/wp/repos/memuller/.env
 
 # Wordpress cache config files
-ln -s /home/wp/data/config/advanced-cache.php ; /home/wp/repos/memuller/wp-content/ ;
-ln -s /home/wp/data/config/wp-cache-config.php /home/wp/repos/memuller/wp-content/ ;
+ln -s /home/wp/data/config/advanced-cache.php ; /home/wp/repos/memuller/web/app/ ;
+ln -s /home/wp/data/config/wp-cache-config.php /home/wp/repos/memuller/web/app/ ;
 
 # Wordpress cache and upload folders 
-ln -s /home/wp/data/cache /home/wp/repos/memuller/wp-content/cache ;
-ln -s /home/wp/data/uploads /home/wp/repos/memuller/wp-content/uploads ;
+ln -s /home/wp/data/cache /home/wp/repos/memuller/web/app/cache ;
+ln -s /home/wp/data/uploads /home/wp/repos/memuller/web/app/uploads ;
 
 # Git push post-update hook
 ln -s /home/wp/data/config/post-update /home/wp/repos/memuller/.git/hooks/ ;
