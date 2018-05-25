@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git checkout
+git submodule update --init --recursive
+composer install
