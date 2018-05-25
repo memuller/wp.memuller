@@ -5,7 +5,8 @@ ufw allow 'Nginx HTTPS' ;
 apt-get install -y mysql-server ;
 mysql_secure_installation
 
-apt-get install -y php-fpm php-mysql composer
+apt-get install -y php-fpm php-mysql php-simplexml composer
+apt-get install -y zip unzip php-zip
 
 adduser wp
 usermod -aG sudo wp ;
