@@ -21,8 +21,19 @@ services:
       MYSQL_DATABASE: memuller
     volumes:
       - ./mysql:/docker-entrypoint-initdb.d
+    networks:
+      - default
+      - databases
 
-  ## Nginx-proxy, sends memuller.test to port 80
+  ## Adminer MySQL admin interface, at localhost:3001
+  
+  # admininastror:
+  #   image: adminer
+  #   ports:
+  #     - "3001:8080"
+  #   environment:
+  #     ADMINER_DESIGN: pepa-linha
+
   ## Nginx reverse proxy, sends memuller.test to port 80
   #  run if you don't have one already on
   #  see README for details
@@ -34,18 +45,12 @@ services:
   #   volumes:
   #     - /var/run/docker.sock:/tmp/docker.sock:ro
 
-  ## Adminer MySQL admin interface, at localhost:3001
-  
-  # admininastror:
-  #   image: adminer
-  #   ports:
-  #     - "3001:8080"
-  #   environment:
-  #     ADMINER_DESIGN: pepa-linha
-  #   links:
-  #     - dbnetworks:
+networks:
   ## Joins the network of an existing nginx reverse proxy
   #  see README for details
   nginx_proxy:
     external:
       name: nginx_proxy
+  databases:
+    external:
+      name: databases
