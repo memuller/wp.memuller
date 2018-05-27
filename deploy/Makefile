@@ -13,3 +13,8 @@ pull: dump_database pull_database pull_attachments ;
 
 push_config:
 	scp -r ./config memuller.com:~/data/ ;
+
+push_app:
+	cd .. ; git push deploy master
+
+push: push_config push_app
