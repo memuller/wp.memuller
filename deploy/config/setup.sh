@@ -37,5 +37,17 @@ apt-get update ;
 apt-get install python-certbot-nginx ;
 certbot --nginx ;
 
+cd /home/wp/
+curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
+chmod +x nodesource_setup.sh
+./nodesource_setup.sh
+
+curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+apt-get update
+apt-get install -y nodejs make gcc g++ yarn
+npm install -g check-node-version
+rm nodesource_setup.sh
+
 source ./setup/link.sh
 source ./setup/perms.sh
