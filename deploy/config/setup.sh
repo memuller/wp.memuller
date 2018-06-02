@@ -37,6 +37,11 @@ apt-get update ;
 apt-get install python-certbot-nginx ;
 certbot --nginx ;
 
+dd if=/dev/zero of=/swapfile bs=128M count=8
+chmod 600 /swapfile
+mkswap /swapfile
+swapon /swapfile
+
 cd /home/wp/
 curl -sL https://deb.nodesource.com/setup_10.x -o nodesource_setup.sh
 chmod +x nodesource_setup.sh
