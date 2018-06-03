@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "88b9f56bb980de987060dffd0f3ad83a",
+    "content-hash": "a6f2b2323edbbd497b4cf88ee692c89b",
     "packages": [
         {
             "name": "composer/installers",
@@ -255,17 +255,17 @@
             "time": "2018-01-29T14:49:29+00:00"
         },
         {
-            "name": "mkaz/code-syntax",
-            "version": "dev-composer",
+            "name": "mkaz/code-syntax-block",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/memuller/code-syntax-block.git",
-                "reference": "1785c884d0c0505047097151f756c785f8974fd9"
+                "reference": "ced67598c5a00aec950cf26f45ff874fa5a19412"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/memuller/code-syntax-block/zipball/1785c884d0c0505047097151f756c785f8974fd9",
-                "reference": "1785c884d0c0505047097151f756c785f8974fd9",
+                "url": "https://api.github.com/repos/memuller/code-syntax-block/zipball/ced67598c5a00aec950cf26f45ff874fa5a19412",
+                "reference": "ced67598c5a00aec950cf26f45ff874fa5a19412",
                 "shasum": ""
             },
             "require": {
@@ -283,9 +283,9 @@
             ],
             "description": "A WordPress plugin which extends Gutenberg adding color syntax highlighting to the code block.",
             "support": {
-                "source": "https://github.com/memuller/code-syntax-block/tree/composer"
+                "source": "https://github.com/memuller/code-syntax-block/tree/master"
             },
-            "time": "2018-05-29T17:46:59+00:00"
+            "time": "2018-06-02T02:53:21+00:00"
         },
         {
             "name": "oscarotero/env",
@@ -524,12 +524,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/gutenberg.git",
-                "reference": "86a4b22c1d7f32ce8eb0ebd0d3380a070d635339"
+                "reference": "23f8945f809c3477991c52dc12c3626dfa4b4178"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/WordPress/gutenberg/zipball/86a4b22c1d7f32ce8eb0ebd0d3380a070d635339",
-                "reference": "86a4b22c1d7f32ce8eb0ebd0d3380a070d635339",
+                "url": "https://api.github.com/repos/WordPress/gutenberg/zipball/23f8945f809c3477991c52dc12c3626dfa4b4178",
+                "reference": "23f8945f809c3477991c52dc12c3626dfa4b4178",
                 "shasum": ""
             },
             "require": {
@@ -564,7 +564,7 @@
                 "issues": "https://github.com/WordPress/gutenberg/issues",
                 "source": "https://github.com/WordPress/gutenberg/tree/master"
             },
-            "time": "2018-05-30T13:23:20+00:00"
+            "time": "2018-06-02T16:32:03+00:00"
         },
         {
             "name": "wpackagist-plugin/admin-color-schemes",
@@ -944,7 +944,7 @@
     "minimum-stability": "stable",
     "stability-flags": {
         "wordpress/gutenberg": 20,
-        "mkaz/code-syntax": 20
+        "mkaz/code-syntax-block": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
