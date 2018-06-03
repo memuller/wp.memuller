@@ -80,6 +80,12 @@ define('LOGGED_IN_SALT', env('LOGGED_IN_SALT'));
 define('NONCE_SALT', env('NONCE_SALT'));
 
 /**
+ * Cache Settings
+ */
+define('WP_CACHE', env('WP_CACHE')?: false);
+define('WPCACHEHOME', env('WPCACHEHOME'));
+
+/**
  * Custom Settings
  */
 define('AUTOMATIC_UPDATER_DISABLED', env('AUTOMATIC_UPDATER_DISABLED') ?: false);
