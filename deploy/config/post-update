@@ -1,0 +1,12 @@
+#!/bin/sh
+echo $GIT_WORK_DIR
+echo $GIT_DIR
+
+cd $GIT_WORK_DIR ;
+git reset --hard ;
+git submodule update --init --recursive ;
+composer install ;
+
+cd web/app/plugins/gutenberg ;
+npm install ; 
+npm run build ;
