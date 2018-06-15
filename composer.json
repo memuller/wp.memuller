@@ -67,7 +67,8 @@
     "wpackagist-plugin/autodescription": "^3.0",
     "mkaz/code-syntax-block": "dev-master",
     "wpackagist-plugin/wp-crontrol": "^1.6",
-    "wpackagist-plugin/gutenberg": "^3.0"
+    "wpackagist-plugin/gutenberg": "^3.0",
+    "wpackagist-plugin/wordpress-seo": "^7.6"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
