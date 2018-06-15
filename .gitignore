@@ -25,7 +25,12 @@ vendor/*
 /web/app/wp-cache-config.php
 
 # Deployment stuff
-/deploy/config
+!/deploy/config
+/deploy/config/*
+!/deploy/config/utils/*
+!/deploy/config/post-update
+!/deploy/config/setup.sh
+
 /deploy/data
 
 # Docker
