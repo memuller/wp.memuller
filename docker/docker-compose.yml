@@ -3,24 +3,29 @@ version: '3.3'
 services:
 
   web:
-    image: webdevops/php-nginx:alpine-php7
+    build: nginx
+    # image: webdevops/php-nginx:alpine-php7
     volumes:
-      - ./../:/app
-      - ./nginx/vhost.conf:/opt/docker/etc/nginx/vhost.conf
+      - type: bind
+        source: ./../
+        target: /app
+      - type: bind
+        source: ./nginx/vhost.conf
+        target: /opt/docker/etc/nginx/vhost.conf
     environment:
-      - VIRTUAL_HOST=memuller.test,jeancatanho.test
+      VIRTUAL_HOST: memuller.test,jeancatanho.test
     networks:
       - default
       - nginx_proxy
 
   db:
-    image: mysql:5.5
+    build: mysql
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: 1234
       MYSQL_DATABASE: memuller
-    volumes:
-      - ./mysql:/docker-entrypoint-initdb.d
+    # volumes:
+    #   - ./share/mysql:/docker-entrypoint-initdb.d
     networks:
       - default
       - databases

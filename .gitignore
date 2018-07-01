@@ -34,4 +34,4 @@ vendor/*
 /deploy/data
 
 # Docker
-/docker/mysql/dump.sql
+/docker/mysql/initdb/dump.sql
