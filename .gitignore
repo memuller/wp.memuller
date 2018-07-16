@@ -35,3 +35,6 @@ vendor/*
 
 # Docker
 /docker/mysql/initdb/dump.sql
+
+# Plugins to NOT ignore
+!/web/app/plugins/wp.block-tableofcontents
