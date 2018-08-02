@@ -38,6 +38,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:memuller/code-syntax-block.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:memuller/block-tableofcontents.git"
     }
   ],
   "require": {
@@ -66,9 +70,11 @@
     "wpackagist-plugin/akismet": "^4.0",
     "wpackagist-plugin/autodescription": "^3.0",
     "mkaz/code-syntax-block": "dev-master",
+    "memuller/block-tableofcontents": "dev-master",
     "wpackagist-plugin/wp-crontrol": "^1.6",
     "wpackagist-plugin/gutenberg": "^3.0",
-    "wpackagist-plugin/wordpress-seo": "^7.6"
+    "wpackagist-plugin/wordpress-seo": "^7.6",
+    "wp-coding-standards/wpcs": "^0.14.1"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
