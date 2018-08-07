@@ -1,7 +1,7 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
     "content-hash": "2436c210cc09740491d4a5d514232f9c",
@@ -260,12 +260,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/memuller/block-tableofcontents.git",
-                "reference": "2c30b696a406436c74b4ae1f53847dfaa5478c41"
+                "reference": "0bf19b2479e434e14e6ba49d7fc9491a7d13f956"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/memuller/block-tableofcontents/zipball/2c30b696a406436c74b4ae1f53847dfaa5478c41",
-                "reference": "2c30b696a406436c74b4ae1f53847dfaa5478c41",
+                "url": "https://api.github.com/repos/memuller/block-tableofcontents/zipball/0bf19b2479e434e14e6ba49d7fc9491a7d13f956",
+                "reference": "0bf19b2479e434e14e6ba49d7fc9491a7d13f956",
                 "shasum": ""
             },
             "require": {
@@ -286,7 +286,7 @@
                 "source": "https://github.com/memuller/block-tableofcontents/tree/master",
                 "issues": "https://github.com/memuller/block-tableofcontents/issues"
             },
-            "time": "2018-08-02T03:31:49+00:00"
+            "time": "2018-08-02T05:01:18+00:00"
         },
         {
             "name": "mkaz/code-syntax-block",
@@ -965,15 +965,15 @@
         },
         {
             "name": "wpackagist-plugin/wordpress-seo",
-            "version": "7.9",
+            "version": "7.9.1",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wordpress-seo/",
-                "reference": "tags/7.9"
+                "reference": "tags/7.9.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.7.9.zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-seo.7.9.1.zip",
                 "reference": null,
                 "shasum": null
             },
