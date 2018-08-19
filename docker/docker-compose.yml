@@ -20,7 +20,6 @@ services:
 
   db:
     build: mysql
-    restart: always
     environment:
       MYSQL_ROOT_PASSWORD: 1234
       MYSQL_DATABASE: memuller
