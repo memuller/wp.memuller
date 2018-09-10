@@ -32,3 +32,11 @@ mysql:
 
 ssh:
 	${EXEC_APP_CMD} ash
+
+db_dump:
+	${EXEC_DB_CMD} sh -c 'mysqldump -u root -p$${MYSQL_ROOT_PASSWORD} $${MYSQL_DATABASE} > /tmp/dump.sql'
+	docker cp ${DB}:/tmp/dump.sql ../dump.sql
+
+db_load:
+	docker cp ../dump.sql ${DB}:/tmp/dump.sql
+	${EXEC_DB_CMD} sh -c 'mysql -u root -p$${MYSQL_ROOT_PASSWORD} $${MYSQL_DATABASE} < /tmp/dump.sql'
