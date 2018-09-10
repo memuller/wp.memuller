@@ -1,5 +1,9 @@
-PRJ_NAME:=memuller_wp
-.PHONY: mysql ssh
+.PHONY: mysql ssh build run up down
+
+include .env
+
+EXEC_APP_CMD:=docker exec -it ${APP}
+EXEC_DB_CMD:=docker exec -it ${DB}
 
 copy_database:
 	cp ./../deploy/data/dump.sql ./mysql/ ;
@@ -24,7 +28,7 @@ down:
 	docker-compose stop;
 
 mysql:
-	docker exec -it ${PRJ_NAME}_db_1 sh -c 'mysql -uroot -p$${MYSQL_ROOT_PASSWORD} $${MYSQL_DATABASE}' ;
+	${EXEC_DB_CMD} sh -c 'mysql -u root -p$${MYSQL_ROOT_PASSWORD} $${MYSQL_DATABASE}' ;
 
 ssh:
-	docker exec -it ${PRJ_NAME}_web_1 ash ;
+	${EXEC_APP_CMD} ash
