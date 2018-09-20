@@ -40,7 +40,7 @@
     "php": ">=5.6",
     "composer/installers": "^1.4",
     "vlucas/phpdotenv": "^2.0.1",
-    "johnpbloch/wordpress": "4.9.5",
+    "johnpbloch/wordpress": "4.9.8",
     "oscarotero/env": "^1.1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/cmb2": "^2.3",
@@ -55,10 +55,12 @@
     "wpackagist-plugin/protocol-relative-theme-assets": "^1.0",
     "wpackagist-plugin/monkeyman-rewrite-analyzer": "^1.0",
     "wpackagist-plugin/admin-color-schemes": "^2.2",
-    "wpackagist-plugin/debug-bar-transients": "^0.5.0"
+    "wpackagist-plugin/debug-bar-transients": "^0.5.0",
+    "roots/wp-config": "1.0.0"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.0.2"
+    "squizlabs/php_codesniffer": "^3.0.2",
+    "roave/security-advisories": "dev-master"
   },
   "extra": {
     "installer-paths": {
