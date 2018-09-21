@@ -34,6 +34,10 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:wp-graphql/wp-graphql.git"
     }
   ],
   "require": {
@@ -56,7 +60,8 @@
     "wpackagist-plugin/monkeyman-rewrite-analyzer": "^1.0",
     "wpackagist-plugin/admin-color-schemes": "^2.2",
     "wpackagist-plugin/debug-bar-transients": "^0.5.0",
-    "roots/wp-config": "1.0.0"
+    "roots/wp-config": "1.0.0",
+    "wp-graphql/wp-graphql": "^0.0.33"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
