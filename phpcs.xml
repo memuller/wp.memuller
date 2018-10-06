@@ -19,5 +19,5 @@
   <arg value="ns"/>
 
   <!-- Use PSR-2 as a base -->
-  <rule ref="PSR2"/>
+  <rule ref="./vendor/wp-coding-standards/wpcs/WordPress-Extra"/>
 </ruleset>
