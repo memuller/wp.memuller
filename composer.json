@@ -42,6 +42,10 @@
     {
       "type": "vcs",
       "url": "git@github.com:memuller/block-tableofcontents.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:wp-graphql/wp-graphql.git"
     }
   ],
   "require": {
@@ -74,10 +78,13 @@
     "wpackagist-plugin/wp-crontrol": "^1.6",
     "wpackagist-plugin/gutenberg": "^3.0",
     "wpackagist-plugin/wordpress-seo": "^7.6",
-    "wp-coding-standards/wpcs": "^0.14.1"
+    "wp-coding-standards/wpcs": "^0.14.1",
+    "roots/wp-config": "1.0.0",
+    "wp-graphql/wp-graphql": "^0.0.33"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.0.2"
+    "squizlabs/php_codesniffer": "^3.0.2",
+    "roave/security-advisories": "dev-master"
   },
   "extra": {
     "installer-paths": {
