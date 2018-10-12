@@ -1,4 +1,6 @@
-FROM  webdevops/php-nginx:alpine-php7
+ARG BASE=php-nginx-dev
+
+FROM  webdevops/${BASE}:alpine-php7
 
 ARG   VHOST
 
