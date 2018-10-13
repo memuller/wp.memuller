@@ -6,7 +6,7 @@ services:
     build:
       context: ./
       args:
-        VHOST: ${SERVER_NAME}
+        VHOST: "memuller.test, jeancatanho.test"
     volumes:
       - type: bind
         source: ./
