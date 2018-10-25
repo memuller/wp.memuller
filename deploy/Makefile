@@ -1,5 +1,31 @@
 include ../.env
-include .env
+# include .env
+
+.PHONY: up down run build wipe
+
+PROD_DC-CMD=docker-compose -f docker-compose.yml -f docker-compose.prod.yml
+
+run:
+	cd ../ ; \
+	${PROD_DC-CMD} up
+
+up:
+	cd ../ ; \
+	${PROD_DC-CMD} up --detach
+
+down:
+	cd ../ ; \
+	${PROD_DC-CMD} stop
+
+build:
+	cd ../ ; \
+	${PROD_DC-CMD} build --force-rm;
+wipe:
+	cd ../ ; \
+	${PROD_DC-CMD} down --remove-orphans ; \
+	${PROD_DC-CMD} rm -v ;
+
+clean: wipe build
 
 pull_attachments:
 	scp -r $(DEPLOY_HOST):~/data/uploads/ ./data/uploads ;

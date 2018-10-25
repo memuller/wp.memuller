@@ -1,0 +1,37 @@
+version: '3.3'
+
+services:
+
+  web:
+    environment:
+      VIRTUAL_HOST: ${VIRTUAL_HOST}
+    networks:
+      - default
+      - nginx_proxy
+
+  db:
+    image: 'mariadb:10.3.10'
+    networks:
+      - default
+      - databases
+
+  nginx-proxy:
+    image: jwilder/nginx-proxy
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      - default
+      - nginx_proxy
+      - public
+
+networks:
+
+  public:
+    external: false
+  nginx_proxy:
+    external: false
+  databases:
+    external: false
