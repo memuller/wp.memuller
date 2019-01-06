@@ -80,7 +80,10 @@
     "wpackagist-plugin/wordpress-seo": "^7.6",
     "wp-coding-standards/wpcs": "^0.14.1",
     "roots/wp-config": "1.0.0",
-    "wp-graphql/wp-graphql": "^0.0.33"
+    "wp-graphql/wp-graphql": "^0.0.33",
+    "wpackagist-plugin/advanced-gutenberg-blocks": "^1.8",
+    "wpackagist-plugin/stackable-ultimate-gutenberg-blocks": "^1.10",
+    "wpackagist-plugin/atomic-blocks": "^1.4"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
