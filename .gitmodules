@@ -4,3 +4,6 @@
 [submodule "web/app/themes/memuller"]
 	path = web/app/themes/memuller
 	url = git@github.com:memuller/wp.memuller.theme.git
+[submodule ".\\web\\app\\plugins\\veribrand"]
+	path = .\\web\\app\\plugins\\veribrand
+	url = git@gitlab.com:veribrand/veribrand_plugin.git
