@@ -9,6 +9,7 @@ Config::define('SAVEQUERIES', true);
 Config::define('WP_DEBUG', true);
 Config::define('WP_DEBUG_DISPLAY', true);
 Config::define('SCRIPT_DEBUG', true);
+Config::define('JWT_AUTH_SECRET_KEY', 'fsadsad');
 
 ini_set('display_errors', 1);
 
