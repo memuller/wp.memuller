@@ -26,7 +26,9 @@
   "config": {
     "preferred-install": "dist"
   },
-  "repositories": [
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "repositories":[
     {
       "type": "composer",
       "url": "https://packagist.org"
@@ -46,6 +48,18 @@
     {
       "type": "vcs",
       "url": "git@github.com:wp-graphql/wp-graphql.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:veribrand/veri_theme.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@bitbucket.org:veribrand/veri_plugin.git"
+    },
+    {
+      "type": "vcs",
+      "url": "git@github.com:memuller/bricks.git"
     }
   ],
   "require": {
@@ -86,7 +100,9 @@
     "wpackagist-plugin/woo-correios-calculo-de-frete-na-pagina-do-produto": "^3.1",
     "wpackagist-plugin/jwt-authentication-for-wp-rest-api": "^1.2",
     "wpackagist-plugin/woocommerce-correios": "^3.7",
-    "wpackagist-plugin/wp-rest-api-v2-menus": "^0.6.1"
+    "wpackagist-plugin/wp-rest-api-v2-menus": "^0.6.1",
+    "veribrand/veri_theme": "dev-master",
+    "veribrand/veri_plugin": "dev-master"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
