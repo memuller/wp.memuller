@@ -1,6 +1,0 @@
-[submodule "web/app/themes/jeancatanho"]
-	path = web/app/themes/jeancatanho
-	url = git@github.com:jensmcatanho/publisher-theme.git
-[submodule "web/app/themes/memuller"]
-	path = web/app/themes/memuller
-	url = git@github.com:memuller/wp.memuller.theme.git
