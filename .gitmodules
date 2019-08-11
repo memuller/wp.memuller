@@ -1,0 +1,3 @@
+[submodule "web/app/themes/veri_theme"]
+	path = web/app/themes/veri_theme
+	url = git@bitbucket.org:veribrand/veri_theme.git

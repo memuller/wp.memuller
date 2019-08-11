@@ -38,3 +38,7 @@ vendor/*
 
 # Plugins to NOT ignore
 !/web/app/plugins/wp.block-tableofcontents
+
+# Themes managed by composer
+/web/app/themes/wp.jensmcatanho.theme
+/web/app/themes/wp.memuller.theme
