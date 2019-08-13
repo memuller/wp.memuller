@@ -98,7 +98,9 @@
     "wpackagist-plugin/woocommerce-correios": "^3.7",
     "wpackagist-plugin/wp-rest-api-v2-menus": "^0.6.1",
 	"memuller/wp.memuller.theme": "dev-master",
-	"jensmcatanho/wp.jensmcatanho.theme": "dev-master"
+	"jensmcatanho/wp.jensmcatanho.theme": "dev-master",
+    "wpackagist-plugin/debug-bar-actions-and-filters-addon": "^1.5",
+    "wpackagist-plugin/debug-bar-slow-actions": "^0.8.4"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
