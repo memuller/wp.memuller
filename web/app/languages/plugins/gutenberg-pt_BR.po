@@ -1,0 +1,4224 @@
+# Translation of Plugins - Gutenberg - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Gutenberg - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-24 17:12:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Gutenberg - Stable (latest release)\n"
+
+#: build/block-library/index.js:14
+msgid "Change column alignment"
+msgstr "Mudar alinhamento da coluna"
+
+#: build/block-library/index.js:14
+msgid "Align Column Right"
+msgstr "Alinhar coluna à direita"
+
+#: build/block-library/index.js:14
+msgid "Align Column Center"
+msgstr "Alinhar coluna ao centro"
+
+#: build/block-library/index.js:14
+msgid "Align Column Left"
+msgstr "Alinhar coluna à esquerda"
+
+#: build/block-library/index.js:14
+msgid "Color"
+msgstr "Cor"
+
+#: build/block-editor/index.js:55
+msgid "Vivid purple"
+msgstr "Roxo intenso"
+
+#: build/edit-post/index.js:12
+msgid "Disable & Reload"
+msgstr "Desativar e recarregar"
+
+#: build/edit-post/index.js:12
+msgid "Enable & Reload"
+msgstr "Ativar e recarregar"
+
+#: build/edit-post/index.js:12
+msgid "A page reload is required for this change. Make sure your content is saved before reloading."
+msgstr "Para realizar esta mudança é preciso recarregar a página. Tenha certeza de que salvou seu conteúdo antes de recarregar."
+
+#: build/edit-post/index.js:12
+msgid "Display these keyboard shortcuts."
+msgstr "Exibir estes atalhos de teclado."
+
+#: gutenberg.php:74
+msgid "Experiments Settings"
+msgstr "Configurações experimentais"
+
+#: lib/experiments-page.php:100
+msgid "Gutenberg has some experimental features you can turn on. Simply select each you would like to use. These features are likely to change so it is inadvisable to use them in production."
+msgstr "O Gutenberg tem alguns recursos experimentais que você pode ativar. Simplesmente selecione quais você gostaria de usar. Estes recursos podem mudar, portanto seu uso em produção não é recomendado."
+
+#: lib/experiments-page.php:63
+msgid "Enable Navigation Menu Block"
+msgstr "Ativar bloco de menu de navegação"
+
+#: lib/experiments-page.php:58
+msgid "Menu Block"
+msgstr "Bloco de menu"
+
+#: lib/experiments-page.php:52
+msgid "Enable Widgets Screen and Legacy Widget Block"
+msgstr "Ativar tela de widgets e bloco de widget legado"
+
+#: lib/experiments-page.php:21
+msgid "Experiment settings"
+msgstr "Configurações experimental"
+
+#: lib/class-wp-block-styles-registry.php:44
+msgid "Block name name must be a string."
+msgstr "O nome do bloco deve ser uma string."
+
+#: build/components/index.js:19
+msgid "Custom"
+msgstr "Personalizado"
+
+#: build/editor/index.js:17
+msgid "Draft"
+msgstr "Rascunho"
+
+#. translators: 1: block name, 2: block style name
+#: lib/class-wp-block-styles-registry.php:76
+msgid "Block \"%1$s\" does not contain a style named \"%2$s.\"."
+msgstr "O bloco \"%1$s\" não contém um estilo chamado \"%2$s\"."
+
+#: build/block-editor/index.js:55
+msgid "Learn more about anchors"
+msgstr "Saiba mais sobre âncoras"
+
+#: build/block-editor/index.js:55
+msgid "Enter a word or two — without spaces — to make a unique web address just for this heading, called an “anchor.” Then, you’ll be able to link directly to this section of your page."
+msgstr "Digite uma ou duas palavras, sem espaços, para criar um endereço único para este título, chamado \"âncora\". Então, você poderá apontar diretamente para esta seção da sua página."
+
+#: lib/customizer.php:60
+msgid "Widget Blocks (Experimental)"
+msgstr "Blocos de widget (experimental)"
+
+#: build/editor/index.js:17
+msgid "%1$s Error message: %2$s"
+msgstr "%1$s Mensagem de erro: %2$s"
+
+#: build/edit-widgets/index.js:1
+msgid "Block areas saved succesfully."
+msgstr "Áreas de bloco salvas com sucesso."
+
+#: build/block-editor/index.js:55
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr "Envie um arquivo de vídeo, escolha um da sua biblioteca de mídia ou adicione um URL."
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Upload an image file, pick one from your media library, or add one with a URL."
+msgstr "Envie uma imagem, escolha uma da sua biblioteca de mídia ou adicione um URL."
+
+#: build/block-editor/index.js:55
+msgid "Upload an audio file, pick one from your media library, or add one with a URL."
+msgstr "Envie um arquivo de áudio, escolha um da sua biblioteca de mídia ou adicione um URL."
+
+#: build/block-editor/index.js:55
+msgid "Upload a media file or pick one from your media library."
+msgstr "Envie um arquivo de mídia ou escolha um da sua biblioteca de mídia."
+
+#: build/block-editor/index.js:55
+msgid "Skip"
+msgstr "Pular"
+
+#: build/block-editor/index.js:55
+msgid "Choose Layout"
+msgstr "Escolher o layout"
+
+#: build/block-editor/index.js:55
+msgid "Select a layout to start with."
+msgstr "Selecione um layout para começar com ele."
+
+#: build/block-editor/index.js:55
+msgid "Select a layout to start with, or make one yourself."
+msgstr "Selecione um layout para começar ou crie o seu próprio."
+
+#: build/block-library/index.js:14
+msgid "Add a page, link, or other item to your Navigation Menu."
+msgstr "Adicione uma página, link ou outro item ao seu menu de navegação."
+
+#: build/block-library/index.js:14
+msgid "Menu Item (Experimental)"
+msgstr "Item de menu (experimental)"
+
+#: build/block-library/index.js:14
+msgid "What's this?"
+msgstr "O que é isso?"
+
+#: build/block-library/index.js:14
+msgid "https://codex.wordpress.org/Nofollow"
+msgstr "https://codex.wordpress.org/Nofollow"
+
+#: build/block-library/index.js:14
+msgid "Don't let search engines follow this link."
+msgstr "Não permita que mecanismos de pesquisa sigam este link."
+
+#: build/block-library/index.js:14
+msgid "Add nofollow to menu item"
+msgstr "Adicionar nofollow a este item de menu"
+
+#: build/block-library/index.js:14
+msgid "Provide more context about where the link goes."
+msgstr "Adicione mais contexto sobre o endereço do link."
+
+#: build/block-library/index.js:14
+msgid "Title Attribute"
+msgstr "Atributo do título"
+
+#: build/block-library/index.js:14
+msgid "SEO Settings"
+msgstr "Configurações de SEO"
+
+#: build/block-library/index.js:14
+msgid "Description"
+msgstr "Descrição"
+
+#: build/block-library/index.js:14
+msgid "Open in new tab"
+msgstr "Abrir em uma nova aba"
+
+#: build/block-library/index.js:14
+msgid "Navigation Label"
+msgstr "Rótulo de navegação"
+
+#: build/block-library/index.js:14
+msgid "Remove from menu"
+msgstr "Remover do menu"
+
+#: build/block-library/index.js:14
+msgid "Nest underneath…"
+msgstr "Tornar subitem de..."
+
+#: build/block-library/index.js:14
+msgid "Move to end"
+msgstr "Mover para o final"
+
+#: build/block-library/index.js:14
+msgid "Move right"
+msgstr "Mover para a direita"
+
+#: build/block-library/index.js:14
+msgid "Move left"
+msgstr "Mover para a esquerda"
+
+#: build/block-library/index.js:14
+msgid "Move to start"
+msgstr "Mover para o início"
+
+#: build/block-library/index.js:14
+msgid "Edit label text"
+msgstr "Editar texto da etiqueta"
+
+#: build/block-library/index.js:14
+msgid "links"
+msgstr "links"
+
+#: build/block-library/index.js:14
+msgid "navigation"
+msgstr "navegação"
+
+#: build/block-library/index.js:14
+msgid "menu"
+msgstr "menu"
+
+#: build/block-library/index.js:14
+msgid "Add a navigation menu to your site."
+msgstr "Adicione um menu de navegação ao seu site."
+
+#: build/block-library/index.js:14
+msgid "Navigation Menu (Experimental)"
+msgstr "Menu de navegação (Experimental)"
+
+#: build/block-library/index.js:14
+msgid "Automatically add new top level pages to this menu."
+msgstr "Adicionar automaticamente a este menu novas páginas de primeiro nível."
+
+#: build/block-library/index.js:14
+msgid "Automatically add new pages"
+msgstr "Adicionar automaticamente novas páginas"
+
+#: build/block-library/index.js:14
+msgid "Menu Settings"
+msgstr "Configurações de menu"
+
+#: build/block-library/index.js:14
+msgid "Search or paste a link"
+msgstr "Pesquise ou cole um link"
+
+#: build/block-library/index.js:14
+msgid "Insert a new menu item"
+msgstr "Inserir um novo item de menu"
+
+#: build/block-library/index.js:14
+msgid "Upload a file or pick one from your media library."
+msgstr "Envie um arquivo ou escolha um da sua biblioteca de mídia."
+
+#: build/block-library/index.js:14
+msgid "Learn more about embeds"
+msgstr "Saiba mais sobre códigos incorporados"
+
+#: build/block-library/index.js:14
+msgid "https://wordpress.org/support/article/embeds/"
+msgstr "https://wordpress.org/support/article/embeds/"
+
+#: build/block-library/index.js:14
+msgid "Paste a link to the content you want to display on your site."
+msgstr "Cole um link para o conteúdo que você deseja exibir no seu site."
+
+#: build/block-library/index.js:14
+msgid "Upload an image or video file, or pick one from your media library."
+msgstr "Envie uma imagem, um arquivo de vídeo ou escolha um da sua biblioteca de mídia."
+
+#: build/block-library/index.js:14
+msgid "Three columns; wide center column"
+msgstr "Três colunas com a do meio maior"
+
+#: build/block-library/index.js:14
+msgid "Three columns; equal split"
+msgstr "Três colunas iguais"
+
+#: build/block-library/index.js:14
+msgid "Two columns; two-thirds, one-third split"
+msgstr "Duas colunas divididas em dois terços e um terço"
+
+#: build/block-library/index.js:14
+msgid "Two columns; one-third, two-thirds split"
+msgstr "Duas colunas divididas em um terço e dois terços"
+
+#: build/block-library/index.js:14
+msgid "Two columns; equal split"
+msgstr "Duas colunas iguais"
+
+#. translators: %s: taxonomy name
+#: build/block-library/blocks/tag-cloud.php:37
+msgid "Your site doesn&#8217;t have any %s, so there&#8217;s nothing to display here at the moment."
+msgstr "Seu site ainda não tem nenhum termo para %s, portanto não há o que exibir aqui por enquanto."
+
+#: build/edit-post/index.js:12
+msgid "More tools & options"
+msgstr "Mais ferramentas e opções"
+
+#: build/block-library/index.js:14
+msgid "Create Table"
+msgstr "Criar tabela"
+
+#: build/block-library/index.js:14
+msgid "Insert a table for sharing data."
+msgstr "Insira uma tabela para compartilhar dados."
+
+#: build/editor/index.js:17
+msgctxt "Ungrouping blocks from within a Group block back into individual blocks within the Editor "
+msgid "Ungroup"
+msgstr "Desagrupar"
+
+#: build/editor/index.js:17
+msgctxt "verb"
+msgid "Group"
+msgstr "Agrupar"
+
+#: build/components/index.js:19
+msgid "Separate with commas or the Enter key."
+msgstr "Separe com vírgulas ou com a tecla Enter."
+
+#: build/components/index.js:19
+msgid "Separate with commas, spaces, or the Enter key."
+msgstr "Separe com vírgulas, espaços, ou a tecla Enter."
+
+#: build/block-editor/index.js:55
+msgid "Separate multiple classes with spaces."
+msgstr "Separe várias classes com espaços."
+
+#: build/block-library/index.js:14
+msgid "Move Image Forward"
+msgstr "Mover imagem para frente"
+
+#: build/block-library/index.js:14
+msgid "Move Image Backward"
+msgstr "Mover imagem para trás"
+
+#: lib/class-wp-rest-widget-areas-controller.php:200
+msgid "Sorry, you are not allowed to edit sidebars."
+msgstr "Sem permissão para editar barras laterais."
+
+#: lib/class-wp-rest-widget-areas-controller.php:149
+msgid "Sorry, you are not allowed to read sidebars."
+msgstr "Sem permissão para ver barras laterais."
+
+#: lib/class-wp-rest-widget-areas-controller.php:56
+msgid "Sidebar content."
+msgstr "Conteúdo da barra lateral."
+
+#: lib/class-wp-rest-widget-areas-controller.php:49
+msgid "The sidebar’s ID."
+msgstr "O ID da barra lateral."
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:332
+msgid "Displays a set of blocks"
+msgstr "Exibe um conjunto de blocos"
+
+#: lib/class-experimental-wp-widget-blocks-manager.php:328
+#: lib/class-experimental-wp-widget-blocks-manager.php:340
+msgid "Blocks Area"
+msgstr "Área de blocos"
+
+#: build/server-side-render/index.js:1
+msgid "Block rendered as empty."
+msgstr "Bloco exibido como vazio."
+
+#: build/format-library/index.js:1
+msgid "Inline Code"
+msgstr "Código em linha"
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying videos may cause usability issues for some visitors."
+msgstr "Atenção: A reprodução automática de vídeos pode causar problemas de usabilidade para alguns visitantes."
+
+#: build/block-library/index.js:14
+msgid "Footer section"
+msgstr "Seção do rodapé"
+
+#: build/block-library/index.js:14
+msgid "Header section"
+msgstr "Seção do cabeçalho"
+
+#: build/block-library/index.js:14
+msgid "Sorting and Filtering"
+msgstr "Ordem e filtros"
+
+#: build/block-library/index.js:14
+msgid "Post Meta Settings"
+msgstr "Configurações de metadados do post"
+
+#: build/block-library/index.js:14
+msgid "Post Content"
+msgstr "Conteúdo do post"
+
+#: build/block-library/index.js:14
+msgid "Post Content Settings"
+msgstr "Configurações do conteúdo do post"
+
+#: build/block-library/index.js:14
+msgid "Percentage width"
+msgstr "Porcentagem da largura"
+
+#: build/block-library/index.js:14
+msgid "Column Settings"
+msgstr "Configurações da coluna"
+
+#: build/block-library/index.js:14
+msgid "Note: Autoplaying audio may cause usability issues for some visitors."
+msgstr "Atenção: A reprodução automática de arquivos de áudio pode causar problemas de usabilidade para alguns visitantes."
+
+#: lib/widgets.php:189
+msgid "Block area updated."
+msgstr "Área de blocos atualizada."
+
+#: lib/widgets.php:188
+msgid "Block area scheduled."
+msgstr "Área de blocos agendada."
+
+#: lib/widgets.php:185
+msgid "Block area published."
+msgstr "Área de blocos publicada."
+
+#: lib/widgets.php:184
+msgid "Block areas list"
+msgstr "Lista de áreas de blocos"
+
+#: lib/widgets.php:183
+msgid "Block areas list navigation"
+msgstr "Navegação da lista de áreas de blocos"
+
+#: lib/widgets.php:182
+msgid "Filter block areas list"
+msgstr "Filtrar lista de áreas de blocos"
+
+#: lib/widgets.php:180
+msgid "No block area found."
+msgstr "Nenhuma área de blocos encontrada."
+
+#: lib/widgets.php:179
+msgid "Search Block Areas"
+msgstr "Pesquisar áreas de blocos"
+
+#: lib/widgets.php:178
+msgid "All Block Areas"
+msgstr "Todas as áreas de blocos"
+
+#: lib/widgets.php:177
+msgid "View Block Area"
+msgstr "Ver área de blocos"
+
+#: lib/widgets.php:176
+msgid "Edit Block Area"
+msgstr "Editar área de blocos"
+
+#: lib/widgets.php:175
+msgid "New Block Area"
+msgstr "Nova área de blocos"
+
+#: lib/widgets.php:174
+msgid "Add New Block Area"
+msgstr "Adicionar nova área de blocos"
+
+#: lib/widgets.php:171
+msgctxt "admin menu"
+msgid "Block Areas"
+msgstr "Áreas de blocos"
+
+#: lib/widgets.php:170
+msgctxt "post type singular name"
+msgid "Block Area (Experimental)"
+msgstr "Área de blocos (Experimental)"
+
+#: lib/widgets.php:169
+msgctxt "post type general name"
+msgid "Block Area (Experimental)"
+msgstr "Área de blocos (Experimental)"
+
+#: lib/widgets.php:167
+msgid "Experimental custom post type that will store block areas referenced by themes."
+msgstr "Tipo de post personalizado e experimental que armazena áreas de blocos definidas pelos temas."
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen content"
+msgstr "Conteúdo da tela de widgets"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets advanced settings"
+msgstr "Configurações avançadas dos widgets"
+
+#: build/edit-widgets/index.js:1
+msgid "(experimental)"
+msgstr "(experimental)"
+
+#: build/edit-widgets/index.js:1
+msgid "Block Areas"
+msgstr "Áreas de blocos"
+
+#: build/edit-widgets/index.js:1
+msgid "Widgets screen top bar"
+msgstr "Barra superior da tela de widgets"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read."
+msgstr "Esta combinação de cores pode dificultar a leitura."
+
+#: build/block-editor/index.js:55
+msgid "Add Block"
+msgstr "Adicionar bloco"
+
+#: build/block-library/index.js:14
+msgid "There is no poster image currently selected"
+msgstr "Nenhuma imagem do poster selecionada no momento"
+
+#: build/block-library/index.js:14
+msgid "The current poster image url is %s"
+msgstr "O URL da imagem do poster é %s"
+
+#: build/block-library/index.js:14
+msgid "section"
+msgstr "seção"
+
+#: build/block-library/index.js:14
+msgid "row"
+msgstr "linha"
+
+#: build/block-library/index.js:14
+msgid "wrapper"
+msgstr "invólucro"
+
+#: build/block-library/index.js:14
+msgid "container"
+msgstr "contêiner"
+
+#: build/block-library/index.js:14
+msgid "A block that groups other blocks."
+msgstr "Um bloco que agrupa outros blocos."
+
+#: build/block-library/index.js:14
+msgid "Group"
+msgstr "Grupo"
+
+#: build/block-library/index.js:14
+msgid "Crop image to fill entire column"
+msgstr "Recortar a imagem para preencher toda a coluna"
+
+#: build/block-library/index.js:14
+msgid "You are now editing the image in the image block."
+msgstr "Você está editando a imagem no bloco de imagem."
+
+#: build/block-library/index.js:14
+msgid "You are now viewing the image in the image block."
+msgstr "Você está vendo a imagem no bloco de imagem."
+
+#: build/block-library/index.js:14
+msgid "Play inline"
+msgstr "Reproduzir sem abrir em tela cheia"
+
+#: build/block-library/index.js:14
+msgid "Leave empty if the image is purely decorative."
+msgstr "Deixe vazio se a imagem for apenas decorativa."
+
+#: build/block-library/index.js:14
+msgid "Describe the purpose of the image"
+msgstr "Descreva o propósito da imagem"
+
+#: build/block-editor/index.js:55
+msgid "Add a block"
+msgstr "Adicionar um bloco"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting label"
+msgid "Change vertical alignment"
+msgstr "Mudar alinhamento vertical"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Bottom"
+msgstr "Alinhar verticalmente embaixo"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Middle"
+msgstr "Alinhar verticalmente no meio"
+
+#: build/editor/index.js:17
+msgid "Replace Image"
+msgstr "Substituir imagem"
+
+#: build/block-editor/index.js:55
+msgctxt "Block vertical alignment setting"
+msgid "Vertically Align Top"
+msgstr "Alinhar verticalmente em cima"
+
+#: build/block-library/index.js:14
+msgid "Display a legacy widget."
+msgstr "Exibir um widget legado."
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget (Experimental)"
+msgstr "Widget legado (Experimental)"
+
+#: build/block-library/index.js:14
+msgid "Change widget"
+msgstr "Mudar widget"
+
+#: build/block-library/index.js:14
+msgid "Legacy Widget"
+msgstr "Widget legado"
+
+#: build/block-library/index.js:14
+msgid "You don't have permissions to use widgets on this site."
+msgstr "Sem permissão para usar widgets neste site."
+
+#: build/block-library/index.js:14
+msgid "Select a legacy widget to display:"
+msgstr "Selecione um widget legado para exibir:"
+
+#: build/block-library/index.js:14
+msgid "There are no widgets available."
+msgstr "Não há widgets disponíveis."
+
+#: build/block-library/index.js:14
+msgid "Not a valid widget."
+msgstr "Não é um widget válido."
+
+#: build/block-editor/index.js:55
+msgid "Change block type or style"
+msgstr "Mude o tipo ou o estilo do bloco"
+
+#: build/block-library/index.js:14
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Espaço"
+
+#: build/block-library/index.js:14
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: build/block-editor/index.js:55
+msgid "More Rich Text Controls"
+msgstr "Mais controles de formatação de texto"
+
+#: build/editor/index.js:17
+msgid "Search Terms"
+msgstr "Pesquisar termos"
+
+#: build/editor/index.js:17
+msgid "Exit the Editor"
+msgstr "Sair do editor"
+
+#: build/edit-post/index.js:12
+msgid "Block Manager"
+msgstr "Gerenciador de blocos"
+
+#: lib/class-wp-rest-widget-updater-controller.php:101
+msgid "Invalid widget."
+msgstr "Widget inválido."
+
+#: lib/class-wp-rest-widget-updater-controller.php:42
+msgid "Class name of the widget."
+msgstr "Nome da classe do widget."
+
+#: lib/class-wp-rest-widget-updater-controller.php:69
+msgid "Sorry, you are not allowed to access widgets on this site."
+msgstr "Sem permissão para acessar widgets neste site."
+
+#: gutenberg.php:50 gutenberg.php:51
+msgid "Widgets (beta)"
+msgstr "Widgets (beta)"
+
+#: build/block-library/index.js:14
+msgid "link"
+msgstr "link"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "O conteúdo incorporado de %s não pode ser pré-visualizado no editor."
+
+#: build/components/index.js:19
+msgid "Custom Color"
+msgstr "Cor personalizada"
+
+#: build/block-library/index.js:14
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Solicite que os visitantes executem uma ação com um link no estilo de botão."
+
+#: build/block-library/blocks/rss.php:62
+msgid "by"
+msgstr "por"
+
+#: build/block-library/blocks/rss.php:27
+msgid "An error has occurred, which probably means the feed is down. Try again later."
+msgstr "Ocorreu um erro, provavelmente porque o feed não está disponível no momento. Tente mais tarde."
+
+#: build/block-library/blocks/rss.php:19
+msgid "RSS Error:"
+msgstr "Erro de RSS:"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgctxt "block style"
+msgid "Default"
+msgstr "Padrão"
+
+#: build/editor/index.js:17
+msgid "Stick to the top of the blog"
+msgstr "Fixar no topo do blog"
+
+#: build/edit-post/index.js:12
+msgid "Read about permalinks"
+msgstr "Leia mais sobre links permanentes"
+
+#: build/edit-post/index.js:12
+msgid "The last part of the URL. "
+msgstr "A última parte do URL. "
+
+#: build/edit-post/index.js:12
+msgid "URL Slug"
+msgstr "Slug do URL"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode deactivated"
+msgstr "Modo de tela cheia desativado"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen mode activated"
+msgstr "Modo de tela cheia ativado"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode deactivated"
+msgstr "Modo sem distrações desativado"
+
+#: build/edit-post/index.js:12
+msgid "Spotlight mode activated"
+msgstr "Modo sem distrações ativado"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar deactivated"
+msgstr "Barra de ferramentas superior desativada"
+
+#: build/edit-post/index.js:12
+msgid "Top toolbar activated"
+msgstr "Barra de ferramentas superior ativada"
+
+#: build/edit-post/index.js:12
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "Você encontrará mais configurações para sua página e blocos na barra lateral. Clique no ícone de engrenagem para abrir ou fechar a barra lateral."
+
+#: build/edit-post/index.js:12
+msgid "Back"
+msgstr "Voltar"
+
+#: build/edit-post/index.js:12
+msgid "Feature activated"
+msgstr "Recurso ativado"
+
+#: build/edit-post/index.js:12
+msgid "Feature deactivated"
+msgstr "Recurso desativado"
+
+#: build/components/index.js:19
+msgid "Vertical Pos."
+msgstr "Pos. vertical"
+
+#: build/components/index.js:19
+msgid "Horizontal Pos."
+msgstr "Pos. horizontal"
+
+#: build/block-library/index.js:14
+msgid "A cloud of your most used tags."
+msgstr "Uma nuvem com as tags mais usadas."
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud"
+msgstr "Nuvem de tags"
+
+#: build/block-library/index.js:14
+msgid "Taxonomy"
+msgstr "Taxonomia"
+
+#: build/block-library/index.js:14
+msgid "Tag Cloud Settings"
+msgstr "Configurações da nuvem de tags"
+
+#: build/block-library/index.js:14
+msgid "- Select -"
+msgstr "- Selecionar -"
+
+#: build/block-library/index.js:14
+msgid "Default"
+msgstr "Padrão"
+
+#: build/block-library/index.js:14
+msgid "find"
+msgstr "busca"
+
+#: build/block-library/index.js:14
+msgid "Help visitors find your content."
+msgstr "Ajude os visitantes a encontrar seu conteúdo."
+
+#: build/block-library/blocks/search.php:77
+#: build/block-library/blocks/search.php:85 build/block-library/index.js:14
+msgid "Search"
+msgstr "Pesquisar"
+
+#: build/block-library/index.js:14
+msgid "Add button text…"
+msgstr "Adicione o texto do botão..."
+
+#: build/block-library/index.js:14
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder…"
+msgstr "Texto de marcação opcional…"
+
+#: build/block-library/index.js:14
+msgid "Optional placeholder text"
+msgstr "Texto de marcação opcional"
+
+#: build/block-library/index.js:14
+msgid "Add label…"
+msgstr "Adicionar etiqueta…"
+
+#: build/block-library/index.js:14
+msgid "Label text"
+msgstr "Texto da etiqueta"
+
+#: build/block-library/index.js:14
+msgid "feed"
+msgstr "feed"
+
+#: build/block-library/index.js:14
+msgid "atom"
+msgstr "atom"
+
+#: build/block-library/index.js:14
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Exibir posts a partir de qualquer feed RSS ou Atom."
+
+#: build/block-library/index.js:14
+msgid "RSS"
+msgstr "RSS"
+
+#: build/block-library/index.js:14
+msgid "Max number of words in excerpt"
+msgstr "Número máximo de palavras no resumo"
+
+#: build/block-library/index.js:14
+msgid "Display excerpt"
+msgstr "Exibir resumo"
+
+#: build/block-library/index.js:14
+msgid "Display date"
+msgstr "Exibir data"
+
+#: build/block-library/index.js:14
+msgid "Display author"
+msgstr "Exibir autor"
+
+#: build/block-library/index.js:14
+msgid "RSS Settings"
+msgstr "Configurações de RSS"
+
+#: build/block-library/index.js:14
+msgid "Edit RSS URL"
+msgstr "Editar URL do RSS"
+
+#: build/block-library/index.js:14
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "O conteúdo antes deste bloco será usado como resumo nas suas páginas de arquivo."
+
+#: build/block-library/index.js:14
+msgid "Hide the excerpt on the full content page"
+msgstr "Ocultar o resumo na página completa do conteúdo"
+
+#: build/block-library/index.js:14
+msgid "The excerpt is visible."
+msgstr "O resumo está visível."
+
+#: build/block-library/index.js:14
+msgid "The excerpt is hidden."
+msgstr "O resumo está oculto."
+
+#: build/block-library/index.js:14
+msgid "image %1$d of %2$d in gallery"
+msgstr "imagem %1$d de %2$d na galeria"
+
+#: build/block-library/index.js:14
+msgid "Sorry, this content could not be embedded."
+msgstr "Não foi possível incorporar o conteúdo."
+
+#: build/block-library/index.js:14
+msgid "Embed Amazon Kindle content."
+msgstr "Incorpore conteúdo do Amazon Kindle."
+
+#: build/block-library/index.js:14
+msgid "ebook"
+msgstr "e-book"
+
+#: build/block-library/index.js:14
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Incorpore conteúdo do Crowdsignal (anteriormente conhecido como Polldaddy)."
+
+#: build/block-library/index.js:14
+msgid "Focal Point Picker"
+msgstr "Seletor de ponto focal"
+
+#: build/block-library/index.js:14
+msgid "archive"
+msgstr "arquivo"
+
+#: build/block-library/index.js:14
+msgid "posts"
+msgstr "posts"
+
+#: build/block-library/index.js:14
+msgid "A calendar of your site’s posts."
+msgstr "Um calendário com os posts do seu site."
+
+#: build/block-library/index.js:14
+msgid "Calendar"
+msgstr "Calendário"
+
+#: build/format-library/index.js:1
+msgid "Underline"
+msgstr "Sublinhado"
+
+#: build/editor/index.js:17
+msgid "https://codex.wordpress.org/Excerpt"
+msgstr "https://codex.wordpress.org/pt-br:Resumo"
+
+#: build/block-editor/index.js:55
+msgid "Attempt Block Recovery"
+msgstr "Tentar restaurar o bloco"
+
+#: build/editor/index.js:17
+msgctxt "Word count type. Do not translate!"
+msgid "words"
+msgstr "palavras"
+
+#: build/block-library/index.js:14
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Conteúdo..."
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Converter para link"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Try again"
+msgstr "Tente novamente"
+
+#: build/nux/index.js:1
+msgid "Editor tips"
+msgstr "Dicas de edição"
+
+#: build/edit-post/index.js:12
+msgid "Block (selected)"
+msgstr "Bloco (selecionado)"
+
+#: build/edit-post/index.js:12
+msgid "Document (selected)"
+msgstr "Documento (selecione)"
+
+#: build/block-editor/index.js:55
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d Palavra"
+msgstr[1] "%d Palavras"
+
+#: build/edit-post/index.js:12
+msgid "Top Toolbar"
+msgstr "Barra de ferramentas superior "
+
+#: build/block-library/index.js:14
+msgid "Link Rel"
+msgstr "Link rel"
+
+#: build/block-library/index.js:14
+msgid "Link CSS Class"
+msgstr "Classe CSS do link"
+
+#: build/block-library/index.js:14
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Crie conteúdo e salve-o para você e outros colaboradores o reutilizarem em seu site. Atualize o bloco e as alterações serão aplicadas em todos os lugares em que ele é usado."
+
+#: build/editor/index.js:17
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Para editar a imagem em destaque, você precisa de permissão para enviar mídia."
+
+#: build/block-editor/index.js:55
+msgid "To edit this block, you need permission to upload media."
+msgstr "Para editar este bloco, você precisa de permissão para enviar mídia."
+
+#: build/block-editor/index.js:55
+msgid "(selected block)"
+msgstr "(bloco selecionado)"
+
+#: build/block-editor/index.js:55
+msgid "Block tools"
+msgstr "Ferramentas de bloco"
+
+#: build/edit-post/index.js:12
+msgid "Permalink"
+msgstr "Link permanente"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute"
+msgstr "Esta imagem possuí um atributo alt vazio"
+
+#: build/block-library/index.js:14
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Esta imagem possuí um atributo alt vazio; O nome do arquivo é %s"
+
+#: lib/widgets.php:187
+msgid "Block area reverted to draft."
+msgstr "Área de bloco revertida para rascunho."
+
+#: lib/widgets.php:186
+msgid "Block area published privately."
+msgstr "Bloco publicado em modo privado."
+
+#: lib/widgets.php:181
+msgid "No block areas found in Trash."
+msgstr "Nenhum bloco encontrado na lixeira."
+
+#: lib/widgets.php:173
+msgctxt "Block"
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: lib/widgets.php:172
+msgctxt "add new on admin bar"
+msgid "Block Area"
+msgstr "Área de bloco"
+
+#: build/format-library/index.js:1
+msgid "Link inserted."
+msgstr "Link inserido."
+
+#: build/format-library/index.js:1
+msgid "Warning: the link has been inserted but may have errors. Please test it."
+msgstr "Atenção: o link foi inserido mas pode conter erros. Faça um teste."
+
+#: build/block-editor/index.js:55
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s bloco selecionado."
+msgstr[1] "%s blocos selecionados."
+
+#: lib/widgets-page.php:57 build/block-editor/index.js:55
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: lib/widgets-page.php:60 build/block-editor/index.js:55
+msgid "Full Size"
+msgstr "Tamanho completo"
+
+#: build/block-editor/index.js:55
+msgid "Link selected."
+msgstr "Link selecionado."
+
+#: build/editor/index.js:17
+msgid "Start writing with text or HTML"
+msgstr "Iniciar escrevendo como texto ou HTML"
+
+#: build/editor/index.js:17
+msgid "Type text or HTML"
+msgstr "Digite texto ou HTML"
+
+#: build/block-editor/index.js:55
+msgid "Block icon"
+msgstr "Ícone de bloco"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Right"
+msgstr "Alinhar texto à direita"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Center"
+msgstr "Alinhar texto ao centro"
+
+#: build/block-editor/index.js:55
+msgid "Align Text Left"
+msgstr "Alinhar texto à esquerda"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Start writing or type / to choose a block"
+msgstr "Comece a escrever ou digite / para escolher um bloco"
+
+#: build/block-library/index.js:14
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Bloco vazio; comece a escrever ou digite / para escolher um bloco."
+
+#: build/block-library/index.js:14
+msgid "Paragraph block"
+msgstr "Bloco de parágrafo"
+
+#: build/block-library/index.js:14
+msgid "Page Break"
+msgstr "Quebra de página"
+
+#: build/block-library/index.js:14
+msgid "Stack on mobile"
+msgstr "Empilhar nos dispositivos móveis"
+
+#: build/block-library/index.js:14
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Arraste imagens, envie novas ou selecione arquivos da sua biblioteca."
+
+#: build/annotations/index.js:1
+msgid "Annotation"
+msgstr "Anotação"
+
+#: build/block-editor/index.js:55
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Mais usados"
+
+#: build/block-editor/index.js:55
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Resolver"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Enorme"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Médio"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Small"
+msgstr "Pequeno"
+
+#: build/block-editor/index.js:55
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: build/components/index.js:19
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Enter"
+
+#: build/list-reusable-blocks/index.js:1
+msgctxt "button label"
+msgid "Import"
+msgstr "Importar"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Download"
+msgstr "Baixar"
+
+#: build/block-library/index.js:14
+msgctxt "button label"
+msgid "Embed"
+msgstr "Incorporar"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Embed"
+msgstr "Incorporar"
+
+#: build/block-library/index.js:14
+msgctxt "block title"
+msgid "Classic"
+msgstr "Clássico"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Large"
+msgstr "Grande"
+
+#: build/block-library/index.js:14
+msgctxt "block style"
+msgid "Squared"
+msgstr "Quadrado"
+
+#: build/format-library/index.js:1
+msgid "%s (opens in a new tab)"
+msgstr "%s (abre em uma nova aba)"
+
+#: build/format-library/index.js:1
+msgid "Link edited."
+msgstr "Link editado."
+
+#: build/format-library/index.js:1
+msgid "Link removed."
+msgstr "Link removido."
+
+#: build/format-library/index.js:1
+msgid "media"
+msgstr "mídia"
+
+#: build/editor/index.js:17
+msgid "Double-check your settings before publishing."
+msgstr "Confira suas configurações antes the publicar."
+
+#: build/editor/index.js:17
+msgid "Generating preview…"
+msgstr "Gerando pré-visualização..."
+
+#: build/editor/index.js:17
+msgid "Edit or update the image"
+msgstr "Editar ou atualizar a imagem"
+
+#: build/block-editor/index.js:55
+msgid "Media"
+msgstr "Mídia"
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the nearest toolbar."
+msgstr "Navegue para a caixa de ferramentas mais próxima."
+
+#: build/edit-post/index.js:12
+msgid "Document tools"
+msgstr "Ferramentas do documento"
+
+#: build/edit-post/index.js:12
+msgid "Document and block tools"
+msgstr "Ferramentas do documento e bloco"
+
+#: build/block-library/index.js:14
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Incorpore um video da sua biblioteca de mídias ou envie um novo."
+
+#: build/block-library/index.js:14
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Escreva poesia. Use um formato de espaçamento especial. Ou cite letras de músicas."
+
+#: build/block-library/index.js:14
+msgid "Add white space between blocks and customize its height."
+msgstr "Adicionar espaço em branco entre blocos e personalizar sua altura."
+
+#: build/block-library/index.js:14
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Adicione elementos personalizados com um shortcode do WordPress."
+
+#: build/block-library/index.js:14
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Crie quebras entre ideias ou seções com um separador horizontal."
+
+#: build/block-library/index.js:14
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Dê ênfase visual ao texto de citação. \"Ao citarmos outros, nós nos mencionamos.\" - Julio Cortázar"
+
+#: build/block-library/index.js:14
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Dê uma ênfase visual especial a uma citação do seu texto."
+
+#: build/block-library/index.js:14
+msgid "Start with the building block of all narrative."
+msgstr "Comece com o bloco fundamental de toda a narrativa."
+
+#: build/block-library/index.js:14
+msgid "Separate your content into a multi-page experience."
+msgstr "Separe seu conteúdo em uma experiência multipágina."
+
+#: build/block-library/index.js:14
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Coloque mídia e texto lado a lado para um visual mais rico."
+
+#: build/block-library/index.js:14
+msgid "Media & Text Settings"
+msgstr "Configurações mídia & texto"
+
+#: build/block-library/index.js:14
+msgid "Create a bulleted or numbered list."
+msgstr "Crie uma lista com marcadores ou numerada."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent comments."
+msgstr "Exibe uma lista dos seus comentários mais recentes."
+
+#: build/block-library/index.js:14
+msgid "Insert an image to make a visual statement."
+msgstr "Insira uma imagem para ilustrar suas ideias."
+
+#: build/block-library/index.js:14
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Adicione um código HTML personalizado e visualize-o à medida que você edita."
+
+#: build/block-library/index.js:14
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Introduza novas seções e organize seu conteúdo para ajudar os visitantes (e mecanismos de pesquisa) a entenderem a estrutura do seu conteúdo."
+
+#: build/block-library/index.js:14
+msgid "Display multiple images in a rich gallery."
+msgstr "Exiba múltiplas imagens em formato de galeria."
+
+#: build/block-library/index.js:14
+msgid "Add a link to a downloadable file."
+msgstr "Adicione um link para baixar um arquivo."
+
+#: build/block-library/index.js:14
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Incorporar vídeos, imagens, tweets, áudio, e outros conteúdos de links externos"
+
+#: build/block-library/index.js:14
+msgid "Resize for smaller devices"
+msgstr "Redimensionar para dispositivos menores"
+
+#: build/block-library/index.js:14
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Essa incorporação não preservará sua proporção quando o navegador for redimensionado."
+
+#: build/block-library/index.js:14
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Essa incorporação preservará sua proporção quando o navegador for redimensionado."
+
+#: build/block-library/index.js:14
+msgid "Embed an Animoto video."
+msgstr "Incorporar um vídeo do Animoto."
+
+#: build/block-library/index.js:14
+msgid "Embed a Vimeo video."
+msgstr "Incorporar um vídeo do Vimeo."
+
+#: build/block-library/index.js:14
+msgid "Embed Flickr content."
+msgstr "Incorporar um conteúdo do Flickr."
+
+#: build/block-library/index.js:14
+msgid "Embed Spotify content."
+msgstr "Incorporar conteúdo do Spotify."
+
+#: build/block-library/index.js:14
+msgid "Embed SoundCloud content."
+msgstr "Incorporar conteúdo do SoundCloud."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress post."
+msgstr "Incorporar um post do WordPress."
+
+#: build/block-library/index.js:14
+msgid "Embed an Instagram post."
+msgstr "Incorporar um post do Instagram."
+
+#: build/block-library/index.js:14
+msgid "Embed a Facebook post."
+msgstr "Incorporar um post do Facebook."
+
+#: build/block-library/index.js:14
+msgid "Embed a WordPress.tv video."
+msgstr "Incorporar um vídeo do WordPress.tv."
+
+#: build/block-library/index.js:14
+msgid "Embed a VideoPress video."
+msgstr "Incorporar um vídeo do VideoPress."
+
+#: build/block-library/index.js:14
+msgid "Embed a Tumblr post."
+msgstr "Incorporar um post do Tumblr."
+
+#: build/block-library/index.js:14
+msgid "Embed a TED video."
+msgstr "Incorporar um vídeo TED."
+
+#: build/block-library/index.js:14
+msgid "Embed Speaker Deck content."
+msgstr "Incorporar conteúdo Speaker Deck."
+
+#: build/block-library/index.js:14
+msgid "Embed a YouTube video."
+msgstr "Incorporar um vídeo do YouTube."
+
+#: build/block-library/index.js:14
+msgid "Embed SmugMug content."
+msgstr "Incorporar conteúdo SmugMug."
+
+#: build/block-library/index.js:14
+msgid "Embed Slideshare content."
+msgstr "Incorporar conteúdo Slideshare."
+
+#: build/block-library/index.js:14
+msgid "Embed Scribd content."
+msgstr "Incorporar conteúdo Scribd."
+
+#: build/block-library/index.js:14
+msgid "Embed Screencast content."
+msgstr "Incorporar conteúdo Screencast."
+
+#: build/block-library/index.js:14
+msgid "Embed ReverbNation content."
+msgstr "Incorporar conteúdo ReverbNation."
+
+#: build/block-library/index.js:14
+msgid "Embed a Reddit thread."
+msgstr "Incorpore uma discussão do Reddit."
+
+#: build/block-library/index.js:14
+msgid "Embed Polldaddy content."
+msgstr "Incorporar conteúdo Polldaddy."
+
+#: build/block-library/index.js:14
+msgid "Embed Mixcloud content."
+msgstr "Incorporar conteúdo Mixcloud."
+
+#: build/block-library/index.js:14
+msgid "Embed a tweet."
+msgstr "Incorporar um tweet."
+
+#: build/block-library/index.js:14
+msgid "Embed Meetup.com content."
+msgstr "Incorporar conteúdo Meetup.com."
+
+#: build/block-library/index.js:14
+msgid "Embed Kickstarter content."
+msgstr "Incorpore conteúdo do Kickstarter."
+
+#: build/block-library/index.js:14
+msgid "Embed Issuu content."
+msgstr "Incorporar conteúdo do Issuu."
+
+#: build/block-library/index.js:14
+msgid "Embed Imgur content."
+msgstr "Incorporar conteúdo do Imgur."
+
+#: build/block-library/index.js:14
+msgid "Embed Hulu content."
+msgstr "Incorporar conteúdo do Hulu."
+
+#: build/block-library/index.js:14
+msgid "Embed a Dailymotion video."
+msgstr "Incorporar um vídeo do Dailymotion."
+
+#: build/block-library/index.js:14
+msgid "Embed CollegeHumor content."
+msgstr "Incorpore conteúdo do CollegeHumor."
+
+#: build/block-library/index.js:14
+msgid "Embed Cloudup content."
+msgstr "Incorporar conteúdo do Cloudup."
+
+#: build/block-library/index.js:14
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Adicionar uma imagem ou vídeo com um texto sobreposto  — ótimo para cabeçalhos."
+
+#: build/block-library/index.js:14
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Exiba trechos de código respeitando seu espaçamento e tabulação."
+
+#: build/block-library/index.js:14
+msgid "Use the classic WordPress editor."
+msgstr "Use o editor clássico do WordPress."
+
+#: build/block-library/index.js:14
+msgid "Display a list of all categories."
+msgstr "Exibe uma lista de todas as categorias."
+
+#: build/block-library/index.js:14
+msgid "Embed a simple audio player."
+msgstr "Incorporar o reprodutor de áudio simples."
+
+#: build/edit-post/index.js:12
+msgctxt "noun"
+msgid "View"
+msgstr "Visualização"
+
+#: build/block-library/index.js:14
+msgctxt "editor button"
+msgid "Left to right"
+msgstr "Esquerda para a direita"
+
+#: build/editor/index.js:17
+msgid "Save as Pending"
+msgstr "Salvar como pendente"
+
+#: build/editor/index.js:17
+msgid "%s address"
+msgstr "%s endereço"
+
+#: build/block-editor/index.js:55
+msgid "Paste or type URL"
+msgstr "Colar ou digitar URL"
+
+#: build/block-editor/index.js:55
+msgid "Insert from URL"
+msgstr "Inserir a partir de um URL"
+
+#: build/block-editor/index.js:55
+msgid "Block Navigation"
+msgstr "Navegação nos blocos"
+
+#: build/block-editor/index.js:55
+msgid "Styles"
+msgstr "Estilos"
+
+#: build/edit-post/index.js:12
+msgid "Advanced Panels"
+msgstr "Painéis avançados"
+
+#: build/edit-post/index.js:12
+msgid "Document Panels"
+msgstr "Painéis do documento"
+
+#: build/edit-post/index.js:12
+msgid "Enable Tips"
+msgstr "Ativar dicas"
+
+#: build/edit-post/index.js:12
+msgid "General"
+msgstr "Geral"
+
+#: build/edit-post/index.js:12
+msgid "Open the block navigation menu."
+msgstr "Abre o menu de navegação entre blocos."
+
+#: build/edit-post/index.js:12
+msgid "Work without distraction"
+msgstr "Trabalhe sem distração"
+
+#: build/edit-post/index.js:12
+msgid "Focus on one block at a time"
+msgstr "Concentre-se em um bloco de cada vez"
+
+#: build/edit-post/index.js:12
+msgid "Access all block and document tools in a single place"
+msgstr "Acesse todas as ferramentas de blocos e documento em um só lugar."
+
+#: build/edit-post/index.js:12
+msgid "Options"
+msgstr "Opções"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "(opens in a new tab)"
+msgstr "(abrir em uma nova aba)"
+
+#: build/components/index.js:19
+msgid "Minutes"
+msgstr "Minutos"
+
+#: build/components/index.js:19
+msgid "Hours"
+msgstr "Horas"
+
+#: build/components/index.js:19
+msgid "Time"
+msgstr "Tempo"
+
+#: build/components/index.js:19
+msgid "Year"
+msgstr "Ano"
+
+#: build/components/index.js:19
+msgid "Day"
+msgstr "Dia"
+
+#: build/components/index.js:19
+msgid "December"
+msgstr "Dezembro"
+
+#: build/components/index.js:19
+msgid "November"
+msgstr "Novembro"
+
+#: build/components/index.js:19
+msgid "October"
+msgstr "Outubro"
+
+#: build/components/index.js:19
+msgid "September"
+msgstr "Setembro"
+
+#: build/components/index.js:19
+msgid "August"
+msgstr "Agosto"
+
+#: build/components/index.js:19
+msgid "July"
+msgstr "Julho"
+
+#: build/components/index.js:19
+msgid "June"
+msgstr "Junho"
+
+#: build/components/index.js:19
+msgid "May"
+msgstr "maio"
+
+#: build/components/index.js:19
+msgid "April"
+msgstr "Abril"
+
+#: build/components/index.js:19
+msgid "March"
+msgstr "Março"
+
+#: build/components/index.js:19
+msgid "February"
+msgstr "Fevereiro"
+
+#: build/components/index.js:19
+msgid "January"
+msgstr "Janeiro"
+
+#: build/components/index.js:19
+msgid "Month"
+msgstr "Mês"
+
+#: build/components/index.js:19
+msgid "Date"
+msgstr "Data"
+
+#: build/components/index.js:19
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Vá para o primeiro [Home] ou último [End] dia de uma semana."
+
+#: build/components/index.js:19
+msgid "Home/End"
+msgstr "Início/fim"
+
+#: build/components/index.js:19
+msgid "Home and End"
+msgstr "Início e fim"
+
+#: build/components/index.js:19
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Navegue para o mês anterior [PageUp] ou o mês seguinte [PageDown]."
+
+#: build/components/index.js:19
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: build/components/index.js:19
+msgid "Page Up and Page Down"
+msgstr "[PageUp] e [PageDown]"
+
+#: build/components/index.js:19
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Navegue para a semana anterior (cima) ou para a seguinte (baixo)."
+
+#: build/components/index.js:19
+msgid "Up and Down Arrows"
+msgstr "Setas para cima e para baixo [&uparrow;] [&downarrow;]"
+
+#: build/components/index.js:19
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Navegue para o dia anterior (esquerda) ou posterior (direita)."
+
+#: build/components/index.js:19
+msgid "Left and Right Arrows"
+msgstr "Setas para a esquerda [&leftarrow;] e para a direita [&rightarrow;]"
+
+#: build/components/index.js:19
+msgid "Select the date in focus."
+msgstr "Seleciona a data em foco."
+
+#: build/components/index.js:19
+msgid "Navigating with a keyboard"
+msgstr "Navegando com o teclado"
+
+#: build/components/index.js:19
+msgid "Click the desired day to select it."
+msgstr "Clique no dia desejado para selecioná-lo."
+
+#: build/components/index.js:19
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Use as setas para a esquerda ou para a direita para selecionar outros meses no passado ou no futuro."
+
+#: build/components/index.js:19
+msgid "Click to Select"
+msgstr "Clique para selecionar"
+
+#: build/components/index.js:19
+msgid "Calendar Help"
+msgstr "Ajuda do calendário"
+
+#: build/components/index.js:19
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Use as setas para mudar a cor base. Seta para cima clareia a cor e para baixo, escurece; para a esquerda diminui a saturação e para direita, aumenta."
+
+#: build/components/index.js:19
+msgid "Choose a shade"
+msgstr "Escolha uma sombra"
+
+#: build/components/index.js:19
+msgid "Change color format"
+msgstr "Alterar o formato da cor"
+
+#: build/components/index.js:19
+msgid "Color value in HSL"
+msgstr "Cor em HSL"
+
+#: build/components/index.js:19
+msgid "Color value in RGB"
+msgstr "Cor em RGB"
+
+#: build/components/index.js:19
+msgid "Color value in hexadecimal"
+msgstr "Cor em hexadecimal"
+
+#: build/components/index.js:19
+msgid "RGB mode active"
+msgstr "Modo RGB ativo"
+
+#: build/components/index.js:19
+msgid "Hex color mode active"
+msgstr "Modo de cor em hexadecimal ativo"
+
+#: build/components/index.js:19
+msgid "Hue/saturation/lightness mode active"
+msgstr "Modo Matiz/Saturação/Brilho (HSL) ativado"
+
+#: build/components/index.js:19
+msgid "Move the arrow left or right to change hue."
+msgstr "Clique nas setas para esquerda ou para a direita para alterar o matiz."
+
+#: build/components/index.js:19
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Valor do matiz em graus, de 0 a 359."
+
+#: build/components/index.js:19
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Valor do canal alfa, de 0 (transparente) para 1 (totalmente opaco)."
+
+#: build/block-library/index.js:14
+msgid "Stripes"
+msgstr "Listras"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for this block."
+msgstr "Seu site não inclui suporte para este bloco."
+
+#: build/block-library/index.js:14
+msgid "Unrecognized Block"
+msgstr "Bloco não-reconhecido"
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Seu site não inclui o suporte para o bloco \"%s\". Você pode deixar esse bloco como está ou removê-lo totalmente."
+
+#: build/block-library/index.js:14
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Seu site não inclui o suporte para o bloco \"%s\". Você pode deixar esse bloco como está, pode convertê-o para um bloco de HTML personalizado ou removê-lo totalmente."
+
+#: build/block-library/index.js:14
+msgid "Media area"
+msgstr "Área de mídia"
+
+#: build/block-library/index.js:14
+msgid "Media & Text"
+msgstr "Mídia e texto"
+
+#: build/block-library/index.js:14
+msgid "Show media on right"
+msgstr "Mostrar mídia à direita"
+
+#: build/block-library/index.js:14
+msgid "Show media on left"
+msgstr "Mostrar mídia à esquerda"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Open in New Tab"
+msgstr "Abrir em uma nova aba"
+
+#: build/block-library/index.js:14
+msgid "Cover"
+msgstr "Cobertura"
+
+#: build/block-library/index.js:14
+msgid "Edit media"
+msgstr "Editar mídia"
+
+#: lib/widgets-page.php:58 build/block-editor/index.js:55
+msgid "Medium"
+msgstr "Médio"
+
+#: build/block-editor/index.js:55
+msgid "Paste URL or type to search"
+msgstr "Cole URL ou digite para pesquisar"
+
+#: build/editor/index.js:17
+msgid "Terms"
+msgstr "Termos"
+
+#: build/editor/index.js:17
+msgid "Your work will be published at the specified date and time."
+msgstr "Seu conteúdo será publicado na data e hora especificadas."
+
+#: build/editor/index.js:17
+msgid "Are you ready to schedule?"
+msgstr "Você está pronto para agendar?"
+
+#: build/editor/index.js:17
+msgid "Always show pre-publish checks."
+msgstr "Sempre mostrar as verificações da pré-publicação."
+
+#: build/editor/index.js:17
+msgid "Take Over"
+msgstr "Assumir o controle"
+
+#: build/editor/index.js:17
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "Outro usuário está trabalhando neste post, o que significa que você não pode fazer alterações, a menos que você assuma o controle."
+
+#: build/editor/index.js:17
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s está atualmente trabalhando neste post, o que significa que você não pode fazer alterações, a menos que você assuma o controle."
+
+#: build/editor/index.js:17
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Outro usuário agora tem o controle de edição desse post. Não se preocupe, suas alterações até o momento foram salvas."
+
+#: build/editor/index.js:17
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s agora tem o controle de edição deste post. Não se preocupe, suas alterações até o momento foram salvas."
+
+#: build/editor/index.js:17
+msgid "Avatar"
+msgstr "Avatar"
+
+#: build/editor/index.js:17
+msgid "This post is already being edited."
+msgstr "Este post já está sendo editado."
+
+#: build/editor/index.js:17
+msgid "Someone else has taken over this post."
+msgstr "Alguém assumiu este post."
+
+#: build/block-editor/index.js:55
+msgid "This block contains unexpected or invalid content."
+msgstr "Este bloco contém conteúdo inesperado ou inválido."
+
+#: build/block-editor/index.js:55
+msgid "Resolve Block"
+msgstr "Resolver bloco"
+
+#: build/block-editor/index.js:55
+msgid "Convert to HTML"
+msgstr "Converter para HTML"
+
+#: build/edit-post/index.js:12
+msgid "Enable Pre-publish Checks"
+msgstr "Ativar verificações de pré-publicação"
+
+#: build/edit-post/index.js:12
+msgid "This block can only be used once."
+msgstr "Este bloco só pode ser usado uma vez."
+
+#: build/edit-post/index.js:12
+msgid "Exit Code Editor"
+msgstr "Sair do editor de código"
+
+#: build/edit-post/index.js:12
+msgid "Editing Code"
+msgstr "Editando o código"
+
+#: build/block-library/index.js:14
+msgid "Solid Color"
+msgstr "Cor sólida"
+
+#: build/block-library/index.js:14
+msgid "Main Color"
+msgstr "Cor principal"
+
+#: build/block-library/index.js:14
+msgid "HTML"
+msgstr "HTML"
+
+#: build/block-library/index.js:14
+msgid "Write HTML…"
+msgstr "Escreva HTML…"
+
+#: build/block-library/index.js:14
+msgid "Media Settings"
+msgstr "Configurações de mídia"
+
+#: build/block-library/index.js:14
+msgid "Overlay Color"
+msgstr "Cor de sobreposição"
+
+#: build/block-library/index.js:14
+msgid "Overlay"
+msgstr "Sobreposição"
+
+#: build/block-library/index.js:14
+msgid "Insert Media"
+msgstr "Inserir mídia"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Reusable block imported successfully!"
+msgstr "Bloco reutilizável importado!"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid Reusable Block JSON file"
+msgstr "Arquivo JSON de bloco reutilizável inválido"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Invalid JSON file"
+msgstr "Arquivo JSON inválido"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Import from JSON"
+msgstr "Importar de JSON"
+
+#: build/keycodes/index.js:1
+msgid "Backtick"
+msgstr "Acento grave"
+
+#: build/keycodes/index.js:1
+msgid "Period"
+msgstr "Ponto"
+
+#: build/keycodes/index.js:1
+msgid "Comma"
+msgstr "Vírgula"
+
+#: build/block-editor/index.js:55
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Mudar tipo de %d bloco"
+msgstr[1] "Mudar tipo de %d blocos"
+
+#: build/block-editor/index.js:55
+msgid "Current"
+msgstr "Atual"
+
+#: build/block-editor/index.js:55
+msgid "After Conversion"
+msgstr "Depois da conversão"
+
+#: build/block-editor/index.js:55
+msgid "Change alignment"
+msgstr "Mudar alinhamento"
+
+#: build/block-editor/index.js:55
+msgid "Change text alignment"
+msgstr "Mudar alinhamento do texto"
+
+#: build/block-library/index.js:14
+msgid "Template block used as a container."
+msgstr "Bloco-modelo usado como um contêiner."
+
+#: build/block-library/index.js:14
+msgid "Reusable Template"
+msgstr "Modelo reutilizável"
+
+#: build/block-editor/index.js:55
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d bloco"
+msgstr[1] "%d blocos"
+
+#: build/edit-post/index.js:12
+msgid "Escape"
+msgstr "Esc"
+
+#: build/edit-post/index.js:12
+msgid "Forward-slash"
+msgstr "Barra"
+
+#: build/block-library/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Não há arquivos para mostrar."
+
+#: build/media-utils/index.js:1
+msgid "This file is empty."
+msgstr "O arquivo está vazio."
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not supported here."
+msgstr "Não há suporte aqui para este tipo de arquivo."
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "Manage All Reusable Blocks"
+msgstr "Gerenciar todos os blocos reutilizáveis"
+
+#: build/editor/index.js:17
+msgid "Title"
+msgstr "Título"
+
+#: build/edit-post/index.js:12
+msgid "Fullscreen Mode"
+msgstr "Modo tela cheia"
+
+#: post-content.php:41
+msgid "Beautiful landscape"
+msgstr "Linda paisagem"
+
+#: build/editor/index.js:17
+msgid "Close panel"
+msgstr "Fechar o painel"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Classic Block"
+msgstr "Converter para o bloco Clássico"
+
+#: build/block-library/index.js:14
+msgid "Remove Poster Image"
+msgstr "Remover imagem de capa"
+
+#: build/block-library/index.js:14
+msgid "Select Poster Image"
+msgstr "Selecionar imagem de capa"
+
+#: build/block-library/index.js:14
+msgid "Poster Image"
+msgstr "Imagem de capa"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Esse bloco está obsoleto. Use o bloco Colunas no lugar dele."
+
+#: build/block-library/index.js:14
+msgid "Text Columns (deprecated)"
+msgstr "Colunas de texto (obsoleto)"
+
+#: build/block-library/index.js:14
+msgid "Row Count"
+msgstr "Quantidade de linhas"
+
+#: build/block-library/index.js:14
+msgid "Column Count"
+msgstr "Quantidade de colunas"
+
+#: build/block-library/index.js:14
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Esse bloco está obsoleto. Use o bloco Parágrafo no lugar dele."
+
+#: build/block-library/index.js:14
+msgid "Subheading (deprecated)"
+msgstr "Subtítulo (obsoleto)"
+
+#: build/block-library/index.js:14
+msgid "blockquote"
+msgstr "citação"
+
+#: build/edit-post/index.js:12
+msgid "Change the block type after adding a new paragraph."
+msgstr "Mude o tipo de bloco após adicionar um novo parágrafo."
+
+#: build/edit-post/index.js:12
+msgid "Spotlight Mode"
+msgstr "Modo sem distrações"
+
+#: build/editor/index.js:17
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "As tags ajudam os usuários e os mecanismos de pesquisa a navegar no seu site e encontrar o seu conteúdo. Adicione algumas palavras-chave para descrever seu post."
+
+#: build/editor/index.js:17
+msgid "Add tags"
+msgstr "Adicionar tags"
+
+#: build/editor/index.js:17
+msgid "Apply the \"%1$s\" format."
+msgstr "Aplicar o formato \"%1$s\"."
+
+#: build/editor/index.js:17
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Seu tema usa formatos de postagem para destacar diferentes tipos de conteúdo, como imagens ou vídeos. Aplique um formato de post para ver este estilo especial."
+
+#: build/editor/index.js:17
+msgid "Use a post format"
+msgstr "Use um formato de post"
+
+#: build/block-editor/index.js:55
+msgid "Insert After"
+msgstr "Inserir depois"
+
+#: build/block-editor/index.js:55
+msgid "Insert Before"
+msgstr "Inserir antes"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Mover %1$d bloco da posição %2$d para baixo uma posição"
+msgstr[1] "Mover %1$d blocos da posição %2$d para baixo uma posição"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Mover %1$d bloco da posição %2$d para cima uma posição"
+msgstr[1] "Mover %1$d blocos da posição %2$d para cima uma posição"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Mover bloco %1$s da posição %2$d para a posição %3$d"
+
+#: build/block-editor/index.js:55
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Mover %1$s bloco da posição %2$d para baixo na posição %3$d"
+
+#: build/block-library/index.js:14
+msgid "movie"
+msgstr "filme"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block before the selected block(s)."
+msgstr "Inserir um novo bloco antes do(s) bloco(s) selecionado(s)."
+
+#: build/edit-post/index.js:12
+msgid "Remove the selected block(s)."
+msgstr "Remover o(s) bloco(s) selecionado(s)."
+
+#: build/edit-post/index.js:12
+msgid "Duplicate the selected block(s)."
+msgstr "Duplicar o(s) bloco(s) selecionado(s)."
+
+#: build/edit-post/index.js:12
+msgid "Block shortcuts"
+msgstr "Atalhos de teclado dos blocos"
+
+#: build/edit-post/index.js:12
+msgid "Clear selection."
+msgstr "Limpar seleção."
+
+#: build/edit-post/index.js:12
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Selecionar todo o texto durante a digitação. Pressionar novamente para selecionar todos blocos."
+
+#: build/edit-post/index.js:12
+msgid "Selection shortcuts"
+msgstr "Atalhos para seleção"
+
+#: build/edit-post/index.js:12
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "Alternar entre editor visual e de código."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "Navegar para a parte anterior do editor (alternativa)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "Navegar para a próxima parte do editor (alternativa)."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the previous part of the editor."
+msgstr "Navegar para a parte anterior do editor."
+
+#: build/edit-post/index.js:12
+msgid "Navigate to the next part of the editor."
+msgstr "Navegar para a próxima parte do editor."
+
+#: build/edit-post/index.js:12
+msgid "Show or hide the settings sidebar."
+msgstr "Mostrar ou ocultar a barra lateral de configurações."
+
+#: build/edit-post/index.js:12
+msgid "Redo your last undo."
+msgstr "Refaz seu último desfazer."
+
+#: build/edit-post/index.js:12
+msgid "Undo your last changes."
+msgstr "Desfaz as últimas alterações."
+
+#: build/edit-post/index.js:12
+msgid "Save your changes."
+msgstr "Salvar suas alterações."
+
+#: build/edit-post/index.js:12
+msgid "Global shortcuts"
+msgstr "Atalhos globais"
+
+#: build/edit-post/index.js:12
+msgid "Remove a link."
+msgstr "Remover um link."
+
+#: build/edit-post/index.js:12
+msgid "Convert the selected text into a link."
+msgstr "Converter o texto selecionado em um link."
+
+#: build/edit-post/index.js:12
+msgid "Underline the selected text."
+msgstr "Sublinhar o texto selecionado."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text italic."
+msgstr "Tornar itálico o texto selecionado."
+
+#: build/edit-post/index.js:12
+msgid "Make the selected text bold."
+msgstr "Tornar negrito o texto selecionado."
+
+#: build/edit-post/index.js:12
+msgid "Text formatting"
+msgstr "Formatação de texto"
+
+#: build/edit-post/index.js:12
+msgid "Insert a new block after the selected block(s)."
+msgstr "Inserir um novo bloco após o(s) bloco(s) selecionado(s)."
+
+#: build/edit-post/index.js:12
+msgid "Keyboard Shortcuts"
+msgstr "Atalhos do teclado"
+
+#: post-content.php:181
+msgid "Thanks for testing Gutenberg!"
+msgstr "Obrigado por testar o Gutenberg!"
+
+#: post-content.php:173
+msgid "Help build Gutenberg"
+msgstr "Ajude a construir o Gutenberg"
+
+#. translators: %s: Gutenberg GitHub repository URL
+#: post-content.php:164
+msgid "If you want to learn more about how to build additional blocks, or if you are interested in helping with the project, head over to the <a href=\"%s\">GitHub repository</a>."
+msgstr "Se você quiser saber mais sobre como criar blocos adicionais ou se estiver interessado em ajudar no projeto, acesse o <a href=\"%s\">repositório do GitHub</a>."
+
+#: post-content.php:155
+msgid "The WordPress community"
+msgstr "A comunidade WordPress"
+
+#: post-content.php:155
+msgid "Code is Poetry"
+msgstr "Código é poesia"
+
+#: post-content.php:151
+msgid "You can build any block you like, static or dynamic, decorative or plain. Here&#8217;s a pullquote block:"
+msgstr "Você consegue montar o bloco que quiser, estático ou dinâmico, decorativo ou simples. Aqui vai um bloco com citação em destaque:"
+
+#: post-content.php:141
+msgid "Any block can opt into these alignments. The embed block has them also, and is responsive out of the box:"
+msgstr "Qualquer bloco pode usar estes alinhamentos, até o bloco de mídias incorporadas, que já é responsivo por padrão:"
+
+#: post-content.php:137
+msgid "The above is a gallery with just two images. It&#8217;s an easier way to create visually appealing layouts, without having to deal with floats. You can also easily convert the gallery back to individual images again, by using the block switcher."
+msgstr "A galeria acima tem somente duas imagens. É uma maneira mais fácil de ter um visual atraente, sem ter que lidar com floats, um código CSS que pode ser bem complicado. Você também pode facilmente converter a galeria de volta a imagens individuais, usando o botão de transformação de blocos."
+
+#: post-content.php:126
+msgid "Sure, the full-wide image can be pretty big. But sometimes the image is worth it."
+msgstr "É claro que uma imagem ocupando a largura total pode ficar muito grande. Mas às vezes a imagem vale a pena."
+
+#: post-content.php:122
+msgid "Accessibility is important &mdash; don&#8217;t forget image alt attribute"
+msgstr "A acessibilidade é importante &mdash; não se esqueça dos atributos alt de imagem"
+
+#: post-content.php:118
+msgid "If you combine the new <strong>wide</strong> and <strong>full-wide</strong> alignments with galleries, you can create a very media rich layout, very quickly:"
+msgstr "Se você combinar os novos alinhamentos <strong>largura ampla</strong> e <strong>largura total</strong> com galerias, você pode criar uma boa apresentação visual muito rapidamente:"
+
+#: post-content.php:114
+msgid "Media Rich"
+msgstr "Rico em mídia"
+
+#: post-content.php:110
+msgid "You can change the amount of columns in your galleries by dragging a slider in the block inspector in the sidebar."
+msgstr "Você pode mudar a quantidade de colunas em suas galerias mexendo no controle deslizante do inspetor de bloco da barra lateral."
+
+#: post-content.php:98
+msgid "Blocks can be anything you need. For instance, you may want to add a subdued quote as part of the composition of your text, or you may prefer to display a giant stylized one. All of these options are available in the inserter."
+msgstr "Os blocos podem ser qualquer coisa que você precisar. Por exemplo, você pode querer adicionar uma citação tímida como parte da composição do texto, ou talvez prefira exibir uma em estilo gigante. Todas essas opções estão disponíveis no adicionador."
+
+#: post-content.php:94
+msgid "The information corresponding to the source of the quote is a separate text field, similar to captions under images, so the structure of the quote is protected even if you select, modify, or remove the source. It&#8217;s always easy to add it back."
+msgstr "A informação que corresponde à origem da citação é um campo separado, similar às legendas sob as imagens, de forma que a estrutura da citação esteja sempre certa, mesmo que você selecione, modifique ou remova essa origem. Também fica fácil adicioná-la de volta."
+
+#: post-content.php:89
+msgid "Matt Mullenweg, 2017"
+msgstr "Matt Mullenweg, 2017"
+
+#: post-content.php:88
+msgid "The editor will endeavor to create a new page and post building experience that makes writing rich posts effortless, and has “blocks” to make it easy what today might take shortcodes, custom HTML, or “mystery meat” embed discovery."
+msgstr "O editor se propõe a criar uma nova experiência de construção de posts e páginas, facilitando a criação conteúdos mais elaborados. Ele tem \"blocos\" para facilitar aquilo que atualmente envolveria shortcodes, HTML personalizados ou uma confusão de elementos incorporados."
+
+#: post-content.php:83
+msgid "A huge benefit of blocks is that you can edit them in place and manipulate your content directly. Instead of having fields for editing things like the source of a quote, or the text of a button, you can directly change the content. Try editing the following quote:"
+msgstr "Uma enorme vantagem dos blocos é que você consegue editá-los no lugar e manipular o conteúdo deles diretamente. Em vez de ter campos para editar, por exemplo, o código de uma citação ou o texto de um botão, você pode alterar o conteúdo diretamente. Experimente editar a seguinte citação:"
+
+#: post-content.php:79
+msgid "Visual Editing"
+msgstr "Edição visual"
+
+#: post-content.php:70
+msgid "And <em>Lists</em> like this one of course :)"
+msgstr "E <em>listas</em> como esta aqui, é claro :)"
+
+#: post-content.php:69
+msgid "Layout blocks, like Buttons, Hero Images, Separators, etc."
+msgstr "Blocos de layout, botões de curtir, imagens em destaque, separadores etc."
+
+#: post-content.php:68
+msgid "Embeds, like YouTube, Tweets, or other WordPress posts."
+msgstr "Incorporados, como YouTube, Tweets ou outros posts do WordPress."
+
+#: post-content.php:67
+msgid "Galleries"
+msgstr "Galerias"
+
+#: post-content.php:66
+msgid "Images &amp; Videos"
+msgstr "Imagens &amp; vídeos"
+
+#: post-content.php:65
+msgid "Text &amp; Headings"
+msgstr "Textos &amp; títulos"
+
+#: post-content.php:60
+msgid "Go give it a try, you may discover things WordPress can already add into your posts that you didn&#8217;t know about. Here&#8217;s a short list of what you can currently find there:"
+msgstr "Experimente, você pode descobrir coisas que o WordPress já é capaz de adicionar nos seus posts e que você nem sabia. Aqui vai uma lista do que você já pode encontrar:"
+
+#: post-content.php:56
+msgid "Imagine everything that WordPress can do is available to you quickly and in the same place on the interface. No need to figure out HTML tags, classes, or remember complicated shortcode syntax. That&#8217;s the spirit behind the inserter—the <code>(+)</code> button you&#8217;ll see around the editor—which allows you to browse all available content blocks and add them into your post. Plugins and themes are able to register their own, opening up all sort of possibilities for rich editing and publishing."
+msgstr "Imagine tudo o que o WordPress pode fazer, está disponível para você rapidamente e no mesmo lugar na interface. Sem necessidade de lembrar sobre tags de HTML, classes ou lembrar da sintaxe complicada de shortcodes. Esse é o espírito por trás do adicionador, o botão <code>(+)</code> que você verá pelo editor, que permite navegar em todos os blocos de conteúdo disponíveis e adicioná-los ao seu post. Plugins e temas são capazes de registrar os seus próprios, abrindo todo o tipo de possibilidades para edição e publicação."
+
+#: post-content.php:52
+msgid "The <em>Inserter</em> Tool"
+msgstr "A ferramenta de <em>adição</em>"
+
+#: post-content.php:48
+msgid "Try selecting and removing or editing the caption, now you don&#8217;t have to be careful about selecting the image or other text by mistake and ruining the presentation."
+msgstr "Tente selecionar e remover ou editar a legenda. Agora você não precisa se preocupar com selecionar por engano a imagem ou outro texto e com isso estragar a apresentação."
+
+#: post-content.php:42
+msgid "If your theme supports it, you&#8217;ll see the \"wide\" button on the image toolbar. Give it a try."
+msgstr "Se o seu tema permitir, você verá um botão \"largo\" na barra de ferramentas da imagem. Experimente."
+
+#: post-content.php:36
+msgid "Handling images and media with the utmost care is a primary focus of the new editor. Hopefully, you&#8217;ll find aspects of adding captions or going full-width with your pictures much easier and robust than before."
+msgstr "Lidar com imagens e mídias com todo o cuidado é um dos focos básicos do novo editor. Esperamos que você ache bem mais fácil do que antes a maneira de adicionar legendas ou exibir as imagens em tela cheia."
+
+#: post-content.php:32
+msgid "A Picture is Worth a Thousand Words"
+msgstr "Uma imagem vale por mil palavras"
+
+#: post-content.php:28
+msgid "Headings are separate blocks as well, which helps with the outline and organization of your content."
+msgstr "Os títulos também são blocos separados, o que ajuda no esboço e organização do seu conteúdo."
+
+#: post-content.php:24
+msgid "... like this one, which is right aligned."
+msgstr "...como este aqui, que é alinhado à direita."
+
+#: post-content.php:20
+msgid "What you are reading now is a <strong>text block</strong> the most basic block of all. The text block has its own controls to be moved freely around the post..."
+msgstr "O que você está lendo agora é um <strong>bloco de texto</strong>, o bloco mais básico de todos. O bloco de texto tem seus próprios controles para que seja movimentado livremente pelo post..."
+
+#: post-content.php:16
+msgid "The goal of this new editor is to make adding rich content to WordPress simple and enjoyable. This whole post is composed of <em>pieces of content</em>—somewhat similar to LEGO bricks—that you can move around and interact with. Move your cursor around and you&#8217;ll notice the different blocks light up with outlines and arrows. Press the arrows to reposition blocks quickly, without fearing about losing things in the process of copying and pasting."
+msgstr "O objetivo deste novo editor é tornar a inclusão de conteúdo rico no WordPress simples e agradável. Este post é todo composto de <em>pedaços de conteúdo</em> — algo parecido com os blocos LEGO — que você pode movimentar e com eles, interagir. Movimente o cursor pela tela e você vai notar que os vários blocos são ressaltados por linhas e setas. Clique nas setas para reposicionar os blocos rapidamente, sem o medo de perder alguma coisa no processo de copiar e colar."
+
+#: post-content.php:11
+msgid "Of Mountains &amp; Printing Presses"
+msgstr "Sobre montanhas e primeiras impressões"
+
+#: lib/demo.php:59
+msgid "Welcome to the Gutenberg Editor"
+msgstr "Bem-vindo ao editor Gutenberg"
+
+#: build/block-library/index.js:14
+msgctxt "block name"
+msgid "More"
+msgstr "Leia mais"
+
+#: build/block-library/index.js:14
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Mais"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Tem certeza de que deseja desagendar este post?"
+
+#: build/block-library/index.js:14
+msgid "Alt Text (Alternative Text)"
+msgstr "Texto alt (texto alternativo)"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block"
+msgstr "Bloco reutilizável"
+
+#: lib/class-wp-rest-widget-areas-controller.php:98
+msgid "Unique identifier for the object."
+msgstr "Identificador único para o objeto."
+
+#: build/editor/index.js:17
+msgid "Untitled Reusable Block"
+msgstr "Bloco reutilizável sem título"
+
+#: build/block-editor/index.js:55
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: build/block-editor/index.js:55
+msgid "Reusable"
+msgstr "Reutilizável"
+
+#: build/block-editor/index.js:55
+msgid "(current %s: %s)"
+msgstr "(atual %s: %s)"
+
+#: build/editor/index.js:17
+msgid "Remove from Reusable Blocks"
+msgstr "Remover dos blocos reutilizáveis"
+
+#: build/editor/index.js:17
+msgid "Add to Reusable Blocks"
+msgstr "Adicionar aos blocos reutilizáveis"
+
+#: build/block-library/index.js:14
+msgid "Keep as HTML"
+msgstr "Manter como HTML"
+
+#: build/block-library/index.js:14
+msgid "Edit URL"
+msgstr "Editar URL"
+
+#: build/block-library/index.js:14
+msgid "Color Settings"
+msgstr "Configurações de cor"
+
+#: build/block-library/index.js:14
+msgid "Reusable Block: %s"
+msgstr "Bloco reutilizável: %s"
+
+#: build/api-fetch/index.js:1
+msgid "The response is not a valid JSON response."
+msgstr "A resposta não é um JSON válido."
+
+#: build/edit-post/index.js:12
+msgid "Editor publish"
+msgstr "Publicação do editor"
+
+#: build/block-library/index.js:14
+msgid "Muted"
+msgstr "Mudo"
+
+#: build/block-library/index.js:14
+msgid "Video Settings"
+msgstr "Configurações de vídeo"
+
+#: build/block-library/index.js:14
+msgid "recent comments"
+msgstr "comentários recentes"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments"
+msgstr "Comentários mais recentes"
+
+#: build/block-library/index.js:14
+msgid "Display Excerpt"
+msgstr "Exibir resumo"
+
+#: build/block-library/index.js:14
+msgid "Display Date"
+msgstr "Exibir data"
+
+#: build/block-library/index.js:14
+msgid "Display Avatar"
+msgstr "Mostrar avatar"
+
+#: build/block-library/index.js:14
+msgid "Latest Comments Settings"
+msgstr "Configurações dos comentários mais recentes"
+
+#: build/block-library/index.js:14
+msgid "Number of Comments"
+msgstr "Número de comentários"
+
+#: build/block-library/index.js:14
+msgid "Background Opacity"
+msgstr "Opacidade do fundo"
+
+#: build/block-library/index.js:14
+msgid "Auto"
+msgstr "Auto"
+
+#: build/block-library/index.js:14
+msgid "Preload"
+msgstr "Pré-carregar"
+
+#: build/block-library/index.js:14
+msgid "Audio Settings"
+msgstr "Configurações de áudio"
+
+#: build/block-library/index.js:14
+msgid "Display a monthly archive of your posts."
+msgstr "Exibir um arquivo mensal de seus posts."
+
+#: build/block-library/index.js:14
+msgid "Display as Dropdown"
+msgstr "Exibir como menu suspenso"
+
+#: build/block-library/index.js:14
+msgid "Show Post Counts"
+msgstr "Mostrar contagens de post"
+
+#: build/block-library/index.js:14
+msgid "Archives Settings"
+msgstr "Configurações dos arquivos"
+
+#: gutenberg.php:62
+msgid "https://wordpress.org/support/plugin/gutenberg"
+msgstr "https://wordpress.org/support/plugin/gutenberg"
+
+#: gutenberg.php:60
+msgid "Support"
+msgstr "Suporte"
+
+#: build/block-library/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Nenhum comentário para mostrar."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: build/block-library/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s em %2$s"
+
+#: build/block-library/blocks/archives.php:65
+msgid "Select Post"
+msgstr "Selecionar post"
+
+#: build/block-library/blocks/archives.php:62
+msgid "Select Week"
+msgstr "Selecionar semana"
+
+#: build/block-library/blocks/archives.php:59
+msgid "Select Day"
+msgstr "Selecione o dia"
+
+#: build/block-library/blocks/archives.php:56
+msgid "Select Month"
+msgstr "Selecione o mês"
+
+#: build/block-library/blocks/archives.php:53
+msgid "Select Year"
+msgstr "Selecione o ano"
+
+#: build/block-library/blocks/archives.php:35 build/block-library/index.js:14
+msgid "Archives"
+msgstr "Arquivos"
+
+#: build/block-editor/index.js:55
+msgid "Very dark gray"
+msgstr "Cinza muito escuro"
+
+#: build/block-editor/index.js:55
+msgid "Cyan bluish gray"
+msgstr "Cinza ciano azulado"
+
+#: build/block-editor/index.js:55
+msgid "Very light gray"
+msgstr "Cinza muito claro"
+
+#: build/block-editor/index.js:55
+msgid "Vivid cyan blue"
+msgstr "Azul ciano vívido"
+
+#: build/block-editor/index.js:55
+msgid "Pale cyan blue"
+msgstr "Azul ciano pálido"
+
+#: build/block-editor/index.js:55
+msgid "Vivid green cyan"
+msgstr "Verde ciano vívido"
+
+#: build/block-editor/index.js:55
+msgid "Light green cyan"
+msgstr "Verde ciano claro"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid amber"
+msgstr "Âmbar luminoso vívido"
+
+#: build/block-editor/index.js:55
+msgid "Luminous vivid orange"
+msgstr "Laranja vívido luminoso"
+
+#: build/block-editor/index.js:55
+msgid "Vivid red"
+msgstr "Vermelho vívido"
+
+#: build/block-editor/index.js:55
+msgid "Pale pink"
+msgstr "Rosa pálido"
+
+#: build/format-library/index.js:1
+msgid "Inline Image"
+msgstr "Imagem em linha"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "Available block types"
+msgstr "Tipos de bloco disponíveis"
+
+#: build/edit-post/index.js:12
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "Boas-vindas ao maravilhoso mundo dos blocos! Clique no botão “+” (adicionar bloco) para adicionar um novo bloco. Existem blocos disponíveis para todos os tipos de conteúdo: você pode inserir texto, cabeçalhos, imagens, listas e muito mais!"
+
+#: build/block-editor/index.js:55
+msgid "Transform To:"
+msgstr "Transformar para:"
+
+#: build/block-editor/index.js:55
+msgid "Remove Block"
+msgstr "Remover bloco"
+
+#: build/edit-post/index.js:12
+msgid "Open publish panel"
+msgstr "Abrir o painel de publicação"
+
+#: build/block-library/index.js:14
+msgid "Dots"
+msgstr "Pontos"
+
+#: build/block-library/index.js:14
+msgid "Wide Line"
+msgstr "Linha Larga"
+
+#: lib/widgets-page.php:59 build/block-editor/index.js:55
+msgid "Large"
+msgstr "Grande"
+
+#: build/block-library/index.js:14
+msgid "Show Download Button"
+msgstr "Mostrar botão de download"
+
+#: build/block-library/index.js:14
+msgid "Download Button Settings"
+msgstr "Configurações do botão de download"
+
+#: build/block-library/index.js:14
+msgid "Link To"
+msgstr "Apontar para"
+
+#: build/block-library/index.js:14
+msgid "Text Link Settings"
+msgstr "Configurações de link de texto"
+
+#: build/block-library/index.js:14
+msgid "pdf"
+msgstr "pdf"
+
+#: build/block-library/index.js:14
+msgid "document"
+msgstr "documento"
+
+#: build/block-library/index.js:14
+msgid "Copy URL"
+msgstr "Copiar URL"
+
+#: build/block-library/index.js:14
+msgid "Write file name…"
+msgstr "Escreva o nome do arquivo..."
+
+#: build/block-library/index.js:14
+msgid "Edit file"
+msgstr "Editar arquivo"
+
+#: build/block-library/index.js:14 build/list-reusable-blocks/index.js:1
+msgid "File"
+msgstr "Arquivo"
+
+#: build/block-library/index.js:14
+msgid "A single column within a columns block."
+msgstr "Uma única coluna dentro de um bloco de colunas."
+
+#: build/block-library/index.js:14
+msgid "Column"
+msgstr "Coluna"
+
+#: build/block-library/index.js:14
+msgid "Outline"
+msgstr "Contorno"
+
+#: build/block-library/index.js:14
+msgid "Loop"
+msgstr "Loop"
+
+#: build/block-library/index.js:14
+msgid "Autoplay"
+msgstr "Reprodução automática"
+
+#: build/block-library/index.js:14
+msgid "Playback Controls"
+msgstr "Controles de reprodução"
+
+#: build/components/index.js:19
+msgid "Close dialog"
+msgstr "Fechar janela"
+
+#: build/media-utils/index.js:1
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr "Este tipo de arquivo não é permitido por razões de segurança."
+
+#: build/nux/index.js:1
+msgid "Disable tips"
+msgstr "Desativar dicas"
+
+#: build/nux/index.js:1
+msgid "Got it"
+msgstr "Entendi"
+
+#: build/nux/index.js:1
+msgid "See next tip"
+msgstr "Ver próxima dica"
+
+#: build/editor/index.js:17
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "Acabou de escrever? Perfeito, vamos publicar agora mesmo. Para isso, basta clicar em \"Publicar\"."
+
+#: build/editor/index.js:17
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Quando estiver pronto, envie a publicação para revisão para que um editor possa aprová-la."
+
+#: build/editor/index.js:17
+msgid "Are you ready to submit for review?"
+msgstr "Você está pronto para enviar para revisão?"
+
+#: build/editor/index.js:17
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "Clique em Visualizar para exibir uma prévia desta página. Dessa forma você pode ter certeza de que não terá problemas com os blocos."
+
+#: build/block-library/index.js:14
+msgid "Replace image"
+msgstr "Substituir imagem"
+
+#: build/media-utils/index.js:1
+msgid "Error while uploading file %s to the media library."
+msgstr "Ocorreu um erro ao enviar o arquivo %s para a biblioteca de mídia."
+
+#: build/media-utils/index.js:1
+msgid "This file exceeds the maximum upload size for this site."
+msgstr "O arquivo excedeu o tamanho máximo de envio para esse site."
+
+#: build/editor/index.js:17
+msgid "View the autosave"
+msgstr "Ver o salvamento automático"
+
+#: build/editor/index.js:17
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Existe uma versão salva automaticamente desta publicação que é mais recente do que a versão abaixo."
+
+#: build/editor/index.js:17
+msgid "Autosaving"
+msgstr "Salvando automaticamente"
+
+#: build/block-library/index.js:14
+msgid "Enter URL here…"
+msgstr "Digite URL aqui..."
+
+#: build/edit-post/index.js:12
+msgid "Pin to toolbar"
+msgstr "Fixar na barra de ferramentas"
+
+#: build/edit-post/index.js:12
+msgid "Unpin from toolbar"
+msgstr "Desafixar da barra de ferramentas"
+
+#: build/block-library/index.js:14
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Insira uma tabela. Perfeito para compartilhar gráficos e dados."
+
+#: build/block-library/index.js:14
+msgid "Fixed width table cells"
+msgstr "Células da tabela de largura fixa"
+
+#: build/block-library/index.js:14
+msgid "Table Settings"
+msgstr "Configurações da tabela"
+
+#: build/block-library/index.js:14
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Adicione um texto que respeite o espaçamento e as abas, e que também permita estilização."
+
+#: build/block-library/index.js:14
+msgid "Display a list of your most recent posts."
+msgstr "Exiba uma lista das publicações mais recentes."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Insira um bloco que exibe conteúdo carregado através de outros sites, como Twitter, Instagram ou YouTube."
+
+#: build/block-library/index.js:14
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Adicione um bloco para exibir o conteúdo em colunas, então adicione quantos blocos de conteúdo quiser."
+
+#: build/server-side-render/index.js:1
+msgid "Error loading block: %s"
+msgstr "Erro ao carregar o bloco: %s"
+
+#: build/list-reusable-blocks/index.js:1
+msgid "Unknown error"
+msgstr "Erro desconhecido"
+
+#: lib/rest-api.php:48
+msgid "Embed Handler"
+msgstr "Incorporar manipulador"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Remover %s"
+
+#: build/editor/index.js:17
+msgid "Copy the permalink"
+msgstr "Copiar o link permanente"
+
+#: build/editor/index.js:17
+msgid "Permalink copied"
+msgstr "Link permanente copiado"
+
+#: build/block-library/index.js:14
+msgid "Height in pixels"
+msgstr "Altura em pixels"
+
+#: build/block-library/index.js:14
+msgid "Spacer Settings"
+msgstr "Configurações de espaçador"
+
+#: build/block-library/index.js:14
+msgid "Spacer"
+msgstr "Espaçador"
+
+#: build/block-library/index.js:14
+msgid "Toggle to show a large initial letter."
+msgstr "Alternar para mostrar uma letra inicial grande."
+
+#: build/block-library/index.js:14
+msgid "Showing large initial letter."
+msgstr "Mostrando letra inicial grande."
+
+#: build/block-library/index.js:14
+msgid "Name:"
+msgstr "Nome:"
+
+#: build/components/index.js:19
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s de %3$s)"
+
+#: build/components/index.js:19
+msgid "Remove item"
+msgstr "Remover item"
+
+#: build/components/index.js:19
+msgid "Color code: %s"
+msgstr "Código de cor: %s"
+
+#: build/block-editor/index.js:55
+msgid "Skip to the selected block"
+msgstr "Pule para o bloco selecionado"
+
+#: build/editor/index.js:17
+msgid "Publish…"
+msgstr "Publicar..."
+
+#: build/editor/index.js:17
+msgid "Schedule…"
+msgstr "Agendar..."
+
+#: build/editor/index.js:17
+msgid "Edit post permalink"
+msgstr "Editar link permanente do post"
+
+#: build/edit-post/index.js:12
+msgid "Show Block Settings"
+msgstr "Mostrar configurações do bloco"
+
+#: build/edit-post/index.js:12
+msgid "Hide Block Settings"
+msgstr "Esconder configurações do bloco"
+
+#: build/edit-post/index.js:12
+msgid "Block settings closed"
+msgstr "Configurações do bloco fechadas"
+
+#: build/edit-post/index.js:12
+msgid "Close plugin"
+msgstr "Fechar plugin"
+
+#: build/edit-post/index.js:12
+msgid "Editor settings"
+msgstr "Editor de configurações"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Link Settings"
+msgstr "Configurações do link"
+
+#: build/format-library/index.js:1
+msgid "Unlink"
+msgstr "Desvincular"
+
+#: build/block-library/index.js:14
+msgid "Page break"
+msgstr "Quebra de página"
+
+#: build/block-library/index.js:14
+msgid "pagination"
+msgstr "paginação"
+
+#: build/block-library/index.js:14
+msgid "next page"
+msgstr "próxima página"
+
+#: build/block-library/index.js:14
+msgid "Image Size"
+msgstr "Tamanho da imagem"
+
+#: build/block-library/index.js:14
+msgid "Height"
+msgstr "Altura"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "Width"
+msgstr "Largura"
+
+#: build/block-library/index.js:14
+msgid "Image Dimensions"
+msgstr "Dimensões da imagem"
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are not cropped."
+msgstr "Miniaturas não são cortadas."
+
+#: build/block-library/index.js:14
+msgid "Thumbnails are cropped to align."
+msgstr "Miniaturas são cortadas para alinhar."
+
+#: build/block-editor/index.js:55
+msgid "Media Library"
+msgstr "Biblioteca de mídia"
+
+#: build/block-editor/index.js:55
+msgid "Advanced"
+msgstr "Avançado"
+
+#: build/components/index.js:19
+msgid "Add item"
+msgstr "Adicionar item"
+
+#: build/editor/index.js:17
+msgid "Reset the template"
+msgstr "Redefinir o modelo"
+
+#: build/editor/index.js:17
+msgid "Keep it as is"
+msgstr "Mantenha como está"
+
+#: build/editor/index.js:17
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "O conteúdo do seu post não corresponde ao modelo atribuído ao seu tipo de post."
+
+#: build/editor/index.js:17
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "A redefinição do modelo pode resultar em perda de conteúdo, deseja continuar?"
+
+#: build/editor/index.js:17
+msgid "Document Statistics"
+msgstr "Estatísticas do documento"
+
+#: build/editor/index.js:17
+msgid "is now scheduled. It will go live on"
+msgstr "está agendado. Será publicado em"
+
+#: build/editor/index.js:17
+msgid "Scheduled"
+msgstr "Agendado"
+
+#: build/editor/index.js:17
+msgid "Scheduling…"
+msgstr "Agendando..."
+
+#: build/edit-post/index.js:12
+msgid "Code editor selected"
+msgstr "Editor de código selecionado"
+
+#: build/edit-post/index.js:12
+msgid "Visual editor selected"
+msgstr "Editor visual selecionado"
+
+#: build/edit-post/index.js:12
+msgid "Plugins"
+msgstr "Plugins"
+
+#: build/components/index.js:19
+msgid "Custom Size"
+msgstr "Tamanho personalizado"
+
+#: build/blocks/index.js:2
+msgid "Layout Elements"
+msgstr "Elementos de layout"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s excluído"
+
+#: build/editor/index.js:17
+msgctxt "term"
+msgid "%s added"
+msgstr "%s adicionado"
+
+#: build/editor/index.js:17
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Visualizar"
+
+#: build/editor/index.js:17
+msgid "Block deleted."
+msgstr "Bloco excluído."
+
+#: build/editor/index.js:17
+msgid "Block updated."
+msgstr "Bloco atualizado."
+
+#: build/editor/index.js:17
+msgid "Block created."
+msgstr "Bloco criado."
+
+#: build/editor/index.js:17
+msgid "Trashing failed"
+msgstr "Falha ao mover para lixeira"
+
+#: build/editor/index.js:17
+msgid "Updating failed."
+msgstr "Falha ao atualizar."
+
+#: build/editor/index.js:17
+msgid "Scheduling failed."
+msgstr "Falha ao agendar."
+
+#: build/editor/index.js:17
+msgid "Publishing failed."
+msgstr "Falha ao publicar."
+
+#: build/edit-post/index.js:12
+msgid "View Post"
+msgstr "Ver post"
+
+#: build/editor/index.js:17
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "Você tem alterações que não foram salvas. Se você continuar, elas serão perdidas."
+
+#: build/editor/index.js:17
+msgid "Document Outline"
+msgstr "Visão geral do documento"
+
+#: build/editor/index.js:17
+msgid "Paragraphs"
+msgstr "Parágrafos"
+
+#: build/editor/index.js:17
+msgid "Headings"
+msgstr "Títulos"
+
+#: build/editor/index.js:17
+msgid "Words"
+msgstr "Palavras"
+
+#: build/editor/index.js:17
+msgid "Content structure"
+msgstr "Estrutura do conteúdo"
+
+#: build/editor/index.js:17
+msgid "Public"
+msgstr "Público"
+
+#: build/editor/index.js:17
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Protegido com uma senha definida por você. Apenas aqueles com a senha podem visualizar esse post."
+
+#: build/editor/index.js:17
+msgid "Password Protected"
+msgstr "Protegido por senha"
+
+#: build/editor/index.js:17
+msgid "Only visible to site admins and editors."
+msgstr "Visível apenas para administradores e editores."
+
+#: build/editor/index.js:17
+msgid "Private"
+msgstr "Privado"
+
+#: build/editor/index.js:17
+msgid "Visible to everyone."
+msgstr "Visível para todos."
+
+#: build/editor/index.js:17
+msgid "Post Visibility"
+msgstr "Visibilidade do post"
+
+#: build/editor/index.js:17
+msgid "Would you like to privately publish this post now?"
+msgstr "Gostaria de publicar de forma privada este post agora?"
+
+#: build/editor/index.js:17
+msgid "Use a secure password"
+msgstr "Use uma senha segura"
+
+#: build/editor/index.js:17
+msgid "Create password"
+msgstr "Criar senha"
+
+#: build/editor/index.js:17
+msgid "Move to Trash"
+msgstr "Mover para a lixeira"
+
+#: build/editor/index.js:17
+msgid "Parent Term"
+msgstr "Termo ascendente"
+
+#: build/editor/index.js:17
+msgid "Parent Category"
+msgstr "Categoria ascendente"
+
+#: build/editor/index.js:17
+msgid "Add new term"
+msgstr "Adicionar novo termo"
+
+#: build/editor/index.js:17
+msgid "Add new category"
+msgstr "Adicionar nova categoria"
+
+#: build/editor/index.js:17
+msgid "Term"
+msgstr "Termo"
+
+#: build/editor/index.js:17
+msgid "Tag"
+msgstr "Tag"
+
+#: build/editor/index.js:17
+msgid "Add New Term"
+msgstr "Adicionar novo termo"
+
+#: build/editor/index.js:17
+msgid "Add New Tag"
+msgstr "Adicionar nova tag"
+
+#: build/editor/index.js:17
+msgid "Switch to Draft"
+msgstr "Mudar para rascunho"
+
+#: build/editor/index.js:17
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Tem certeza de que deseja cancelar a publicação deste post?"
+
+#: build/editor/index.js:17
+msgid "Immediately"
+msgstr "Imediatamente"
+
+#: build/editor/index.js:17
+msgid "Save Draft"
+msgstr "Salvar rascunho"
+
+#: build/editor/index.js:17
+msgid "Saving"
+msgstr "Salvando"
+
+#: build/editor/index.js:17
+msgid "Publish:"
+msgstr "Publicar: "
+
+#: build/editor/index.js:17
+msgid "Visibility:"
+msgstr "Visibilidade:"
+
+#: build/editor/index.js:17
+msgid "Are you ready to publish?"
+msgstr "Pronto para publicar?"
+
+#: build/editor/index.js:17
+msgid "Copy Link"
+msgstr "Copiar link"
+
+#: build/editor/index.js:17
+msgid "What’s next?"
+msgstr "O que mais?"
+
+#: build/editor/index.js:17
+msgid "is now live."
+msgstr "agora está no ar."
+
+#: build/editor/index.js:17
+msgid "Published"
+msgstr "Publicado"
+
+#: build/editor/index.js:17
+msgid "Schedule"
+msgstr "Agendar"
+
+#: build/editor/index.js:17 build/edit-widgets/index.js:1
+msgid "Update"
+msgstr "Atualizar"
+
+#: build/editor/index.js:17
+msgid "Submit for Review"
+msgstr "Enviar para revisão"
+
+#: build/editor/index.js:17
+msgid "Updating…"
+msgstr "Atualizando..."
+
+#: build/editor/index.js:17
+msgid "Publishing…"
+msgstr "Publicando…"
+
+#: build/editor/index.js:17
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "Permitir pingbacks e trackbacks"
+
+#: build/editor/index.js:17
+msgid "Permalink:"
+msgstr "Link permanente:"
+
+#: build/editor/index.js:17
+msgid "Pending Review"
+msgstr "Revisão pendente"
+
+#: build/editor/index.js:17
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d revisão"
+msgstr[1] "%d revisões"
+
+#: build/editor/index.js:17
+msgid "Suggestion:"
+msgstr "Sugestão:"
+
+#: build/editor/index.js:17
+msgid "Post Format"
+msgstr "Formato do post"
+
+#: build/editor/index.js:17
+msgid "Chat"
+msgstr "Bate-papo"
+
+#: build/editor/index.js:17
+msgid "Status"
+msgstr "Status"
+
+#: build/editor/index.js:17
+msgid "Standard"
+msgstr "Padrão"
+
+#: build/editor/index.js:17
+msgid "Aside"
+msgstr "Nota"
+
+#: build/editor/index.js:17
+msgid "Set Featured Image"
+msgstr "Definir imagem destacada"
+
+#: build/editor/index.js:17
+msgid "Learn more about manual excerpts"
+msgstr "Saiba mais sobre os resumos"
+
+#: build/editor/index.js:17
+msgid "Write an excerpt (optional)"
+msgstr "Escreva um resumo (opcional)"
+
+#: build/editor/index.js:17
+msgid "Allow Comments"
+msgstr "Permitir comentários"
+
+#: build/editor/index.js:17
+msgid "Template:"
+msgstr "Modelo:"
+
+#: build/editor/index.js:17
+msgid "no parent"
+msgstr "sem ascendente"
+
+#: build/editor/index.js:17
+msgid "no title"
+msgstr "sem título"
+
+#: build/editor/index.js:17
+msgid "Order"
+msgstr "Ordem"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "No blocks found."
+msgstr "Nenhum bloco encontrado."
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "%d resultado encontrado."
+msgstr[1] "%d resultados encontrados."
+
+#: build/editor/index.js:17
+msgid "Saved"
+msgstr "Salvo"
+
+#: build/blocks/index.js:2
+msgid "Embeds"
+msgstr "Códigos incorporados"
+
+#: build/editor/index.js:17
+msgid "Blocks"
+msgstr "Blocos"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+msgid "Search for a block"
+msgstr "Procurar um bloco"
+
+#: build/block-editor/index.js:55
+msgid "Add block"
+msgstr "Adicionar bloco"
+
+#: build/block-editor/index.js:55
+msgid "Add %s"
+msgstr "Adicionar %s"
+
+#: build/editor/index.js:17
+msgid "Copy Error"
+msgstr "Copiar o erro"
+
+#: build/editor/index.js:17
+msgid "Copy Post Text"
+msgstr "Copiar o texto do post"
+
+#: build/editor/index.js:17
+msgid "Attempt Recovery"
+msgstr "Tentativa de recuperação"
+
+#: build/editor/index.js:17
+msgid "The editor has encountered an unexpected error."
+msgstr "O editor encontrou um erro inesperado."
+
+#: build/editor/index.js:17
+msgid "Undo"
+msgstr "Desfazer"
+
+#: build/editor/index.js:17
+msgid "Redo"
+msgstr "Refazer"
+
+#: build/editor/index.js:17
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Múltiplos títulos H1 não são recomendados)"
+
+#: build/editor/index.js:17
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Seu tema pode já usar um título H1 para o título do post)"
+
+#: build/editor/index.js:17
+msgid "(Incorrect heading level)"
+msgstr "(Nível de título incorreto)"
+
+#: build/editor/index.js:17
+msgid "(Empty heading)"
+msgstr "(Título vazio)"
+
+#: build/block-editor/index.js:55
+msgid "Block Styles"
+msgstr "Estilos de bloco"
+
+#: build/editor/index.js:17
+msgid ""
+"Are you sure you want to delete this Reusable Block?\n"
+"\n"
+"It will be permanently removed from all posts and pages that use it."
+msgstr ""
+"Tem certeza de que deseja excluir esse bloco compartilhado?\n"
+"\n"
+"Isso irá removê-lo permanentemente de todos os posts e páginas que o usam."
+
+#: build/editor/index.js:17
+msgid "Convert to Regular Block"
+msgstr "Converter para bloco normal"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "More options"
+msgstr "Mais opções"
+
+#: build/block-editor/index.js:55
+msgid "Edit visually"
+msgstr "Editar visualmente"
+
+#: build/block-editor/index.js:55
+msgid "Duplicate"
+msgstr "Duplicar"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Os blocos não podem ser movidos para baixo pois eles já estão na parte inferior"
+
+#: build/block-editor/index.js:55
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Os blocos não podem ser movidos para cima pois eles já estão na parte superior"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "O bloco %s está no começo do conteúdo e não pode ser movido para cima"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "O bloco %s está no final do conteúdo e não pode ser movido para baixo"
+
+#: build/block-editor/index.js:55
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "O bloco %s é o único bloco e não pode ser movido"
+
+#: build/block-editor/index.js:55
+msgid "Move down"
+msgstr "Mover para baixo"
+
+#: build/block-editor/index.js:55
+msgid "Move up"
+msgstr "Mover para cima"
+
+#: build/block-editor/index.js:55
+msgid "Edit as HTML"
+msgstr "Editar como HTML"
+
+#: build/block-editor/index.js:55
+msgid "Convert to Blocks"
+msgstr "Converter para blocos"
+
+#: build/block-editor/index.js:55
+msgid "Block: %s"
+msgstr "Bloco: %s"
+
+#: build/block-editor/index.js:55
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Este bloco encontrou um erro e não pode ser visualizado."
+
+#: build/block-editor/index.js:55
+msgid "No block selected."
+msgstr "Nenhum bloco selecionado."
+
+#: build/edit-post/index.js:12
+msgid "Transform into:"
+msgstr "Transformar em:"
+
+#: build/edit-post/index.js:12
+msgid "Remove"
+msgstr "Remover"
+
+#: build/edit-post/index.js:12
+msgid "Find original"
+msgstr "Encontre o original"
+
+#: build/edit-post/index.js:12
+msgid "Copy All Content"
+msgstr "Copiar todo o conteúdo"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+#: build/edit-post/index.js:12
+msgid "Copied!"
+msgstr "Copiado!"
+
+#: build/edit-post/index.js:12
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Configurações adicionais estão agora disponíveis nas configurações da barra lateral do Editor de bloco."
+
+#: build/edit-post/index.js:12
+msgid "Visibility"
+msgstr "Visibilidade"
+
+#: build/edit-post/index.js:12
+msgid "Status & Visibility"
+msgstr "Status e visibilidade"
+
+#: build/edit-post/index.js:12
+msgid "Page Attributes"
+msgstr "Atributos da página"
+
+#: build/edit-post/index.js:12
+msgid "Block"
+msgstr "Bloco"
+
+#: build/edit-post/index.js:12
+msgid "Document"
+msgstr "Documento"
+
+#: build/editor/index.js:17 build/edit-post/index.js:12
+msgid "Featured Image"
+msgstr "Imagem destacada"
+
+#: build/edit-post/index.js:12
+msgid "Close settings"
+msgstr "Fechar configurações"
+
+#: build/edit-post/index.js:12
+msgid "Editor plugins"
+msgstr "Editor de plugins"
+
+#: build/edit-post/index.js:12
+msgid "Editor content"
+msgstr "Editor de conteúdo"
+
+#: build/edit-post/index.js:12
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: build/edit-post/index.js:12
+msgid "Editor"
+msgstr "Editor"
+
+#: build/edit-post/index.js:12
+msgid "Code Editor"
+msgstr "Editor de código"
+
+#: build/edit-post/index.js:12
+msgid "Visual Editor"
+msgstr "Editor visual"
+
+#: build/edit-post/index.js:12
+msgid "Editor top bar"
+msgstr "Barra superior do editor"
+
+#: build/edit-post/index.js:12
+msgid "Settings"
+msgstr "Configurações"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Reset"
+msgstr "Redefinir"
+
+#: build/components/index.js:19
+msgid "Dismiss this notice"
+msgstr "Dispensar essa notificação"
+
+#: build/components/index.js:19
+msgid "Item removed."
+msgstr "Item removido."
+
+#: build/components/index.js:19
+msgid "Item added."
+msgstr "Item adicionado."
+
+#: build/components/index.js:19
+msgid "Drop files to upload"
+msgstr "Solte arquivos aqui para enviar"
+
+#: build/components/index.js:19
+msgid "PM"
+msgstr "PM"
+
+#: build/components/index.js:19
+msgid "AM"
+msgstr "AM"
+
+#: build/api-fetch/index.js:1
+msgid "An unknown error occurred."
+msgstr "Ocorreu um erro desconhecido."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "No results."
+msgstr "Nenhum resultado."
+
+#: build/block-editor/index.js:55 build/components/index.js:19
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "%d resultado encontrado, use as setas para cima e para baixo para navegar."
+msgstr[1] "%d resultados encontrados, use as setas para cima e para baixo para navegar"
+
+#: build/block-library/blocks/rss.php:35
+#: build/block-library/blocks/latest-comments.php:31
+#: build/block-library/blocks/latest-posts.php:37 build/editor/index.js:17
+#: build/block-library/index.js:14 build/edit-post/index.js:12
+msgid "(no title)"
+msgstr "(sem título)"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "URL"
+msgstr "URL"
+
+#: build/block-editor/index.js:55
+msgid "Submit"
+msgstr "Enviar"
+
+#: build/block-editor/index.js:55 build/edit-post/index.js:12
+#: build/components/index.js:19
+msgid "Close"
+msgstr "Fechar"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Insert Link"
+msgstr "Inserir link"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Edit Link"
+msgstr "Editar link"
+
+#: build/editor/index.js:17 build/format-library/index.js:1
+#: build/block-library/index.js:14
+msgid "Link"
+msgstr "Link"
+
+#: build/format-library/index.js:1
+msgid "Strikethrough"
+msgstr "Riscado"
+
+#: build/format-library/index.js:1
+msgid "Italic"
+msgstr "Itálico"
+
+#: build/format-library/index.js:1
+msgid "Bold"
+msgstr "Negrito"
+
+#: build/block-library/index.js:14
+msgid "Remove Link"
+msgstr "Remover link"
+
+#: build/block-library/index.js:14 build/components/index.js:19
+msgid "Number of items"
+msgstr "Número de itens"
+
+#: build/components/index.js:19
+msgid "All"
+msgstr "Tudo"
+
+#: build/editor/index.js:17 build/components/index.js:19
+msgid "Category"
+msgstr "Categoria"
+
+#: build/components/index.js:19
+msgid "Z → A"
+msgstr "Z \t A"
+
+#: build/components/index.js:19
+msgid "A → Z"
+msgstr "A \t Z"
+
+#: build/components/index.js:19
+msgid "Oldest to Newest"
+msgstr "Do mais antigo para o mais recente"
+
+#: build/components/index.js:19
+msgid "Newest to Oldest"
+msgstr "Do mais recente para o mais antigo"
+
+#: build/components/index.js:19
+msgid "Order by"
+msgstr "Ordernar por"
+
+#: build/media-utils/index.js:1
+msgid "Select"
+msgstr "Selecionar"
+
+#: build/media-utils/index.js:1
+msgid "Select or Upload Media"
+msgstr "Selecione ou envie a mídia"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Video"
+msgstr "Vídeo"
+
+#: build/block-library/index.js:14
+msgid "Edit video"
+msgstr "Editar vídeo"
+
+#: build/block-library/index.js:14
+msgid "Write…"
+msgstr "Escreva..."
+
+#: build/block-library/index.js:14
+msgid "poetry"
+msgstr "poesia"
+
+#: build/block-library/index.js:14
+msgid "Verse"
+msgstr "Verso"
+
+#: build/block-library/index.js:14
+msgid "New Column"
+msgstr "Nova coluna"
+
+#: build/block-library/index.js:14
+msgid "Delete Column"
+msgstr "Excluir coluna"
+
+#: build/block-library/index.js:14
+msgid "Add Column After"
+msgstr "Adicionar coluna depois"
+
+#: build/block-library/index.js:14
+msgid "Add Column Before"
+msgstr "Adicionar coluna antes"
+
+#: build/block-library/index.js:14
+msgid "Delete Row"
+msgstr "Excluir linha"
+
+#: build/block-library/index.js:14
+msgid "Add Row After"
+msgstr "Adicionar linha depois"
+
+#: build/block-library/index.js:14
+msgid "Add Row Before"
+msgstr "Adicionar linha antes"
+
+#: build/block-library/index.js:14
+msgid "Edit table"
+msgstr "Editar tabela"
+
+#: build/block-library/index.js:14
+msgid "Table"
+msgstr "Tabela"
+
+#: build/block-library/index.js:14
+msgid "Write subheading…"
+msgstr "Escreva o subtítulo..."
+
+#: build/block-library/index.js:14
+msgid "Write shortcode here…"
+msgstr "Digite um shortcode aqui..."
+
+#: build/block-library/index.js:14
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: build/block-library/index.js:14
+msgid "divider"
+msgstr "divisor"
+
+#: build/block-library/index.js:14
+msgid "horizontal-line"
+msgstr "linha horizontal"
+
+#: build/block-library/index.js:14
+msgid "Separator"
+msgstr "Separador"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Quote"
+msgstr "Citação"
+
+#: build/block-library/index.js:14
+msgid "Write citation…"
+msgstr "Escrever citação..."
+
+#: build/block-library/index.js:14
+msgid "Write quote…"
+msgstr "Escreva uma citação..."
+
+#: build/block-library/index.js:14
+msgid "Pullquote"
+msgstr "Citação"
+
+#: build/block-library/index.js:14
+msgid "Write preformatted text…"
+msgstr "Escreva um texto pré-formatado..."
+
+#: build/block-library/index.js:14
+msgid "Preformatted"
+msgstr "Pré-formatado"
+
+#: build/block-library/index.js:14
+msgid "text"
+msgstr "texto"
+
+#: build/block-library/index.js:14
+msgid "Paragraph"
+msgstr "Parágrafo"
+
+#: build/components/index.js:19
+msgid "Font Size"
+msgstr "Tamanho da fonte"
+
+#: build/block-library/index.js:14
+msgid "Drop Cap"
+msgstr "Letra capitular"
+
+#: build/block-library/index.js:14
+msgid "Text Settings"
+msgstr "Configurações do texto"
+
+#: build/block-library/blocks/latest-posts.php:70
+#: build/block-library/index.js:14
+msgid "Read more"
+msgstr "Leia mais"
+
+#: build/block-library/index.js:14
+msgid "Write list…"
+msgstr "Escrever lista..."
+
+#: build/block-library/index.js:14
+msgid "numbered list"
+msgstr "lista numerada"
+
+#: build/block-library/index.js:14
+msgid "ordered list"
+msgstr "lista ordenada"
+
+#: build/block-library/index.js:14
+msgid "bullet list"
+msgstr "lista com marcadores"
+
+#: build/block-library/index.js:14
+msgid "Indent list item"
+msgstr "Avançar item da lista"
+
+#: build/block-library/index.js:14
+msgid "Outdent list item"
+msgstr "Recuar item da lista"
+
+#: build/block-library/index.js:14
+msgid "Convert to ordered list"
+msgstr "Converter para lista ordenada"
+
+#: build/block-library/index.js:14
+msgid "Convert to unordered list"
+msgstr "Converter para lista não ordenada"
+
+#: build/block-library/index.js:14
+msgid "List"
+msgstr "Lista"
+
+#: build/block-library/index.js:14
+msgid "recent posts"
+msgstr "posts recentes"
+
+#: build/block-library/index.js:14
+msgid "No posts found."
+msgstr "Nenhum post encontrado."
+
+#: build/block-library/index.js:14
+msgid "Latest Posts"
+msgstr "Posts mais recentes"
+
+#: build/block-library/index.js:14
+msgid "Display post date"
+msgstr "Exibir a data do post"
+
+#: build/block-library/index.js:14
+msgid "Grid View"
+msgstr "Visualização em grade"
+
+#: build/block-library/index.js:14
+msgid "List View"
+msgstr "Visualização em lista"
+
+#: build/format-library/index.js:1 build/block-library/index.js:14
+msgid "photo"
+msgstr "foto"
+
+#: build/block-library/index.js:14
+msgid "Image Settings"
+msgstr "Configurações da imagem"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Image"
+msgstr "Imagem"
+
+#: build/block-editor/index.js:55 build/block-library/index.js:14
+msgid "Preview"
+msgstr "Visualizar"
+
+#: build/block-library/index.js:14
+msgid "embed"
+msgstr "Mídia incorporada"
+
+#: build/block-library/index.js:14
+msgid "Custom HTML"
+msgstr "HTML personalizado"
+
+#: build/block-library/index.js:14
+msgid "subtitle"
+msgstr "subtítulo"
+
+#: build/block-library/index.js:14
+msgid "title"
+msgstr "título"
+
+#: build/block-library/index.js:14
+msgid "Heading"
+msgstr "Título"
+
+#: build/block-library/index.js:14
+msgid "Write heading…"
+msgstr "Escreva o título…"
+
+#: build/block-library/index.js:14
+msgid "Heading %d"
+msgstr "Título %d"
+
+#: build/block-library/index.js:14
+msgid "Level"
+msgstr "Nível"
+
+#: build/block-library/index.js:14
+msgid "Heading Settings"
+msgstr "Configurações do cabeçalho"
+
+#: build/block-library/index.js:14
+msgid "photos"
+msgstr "fotos"
+
+#: build/block-library/index.js:14
+msgid "images"
+msgstr "imagens"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Remove Image"
+msgstr "Remover imagem"
+
+#: build/block-library/index.js:14
+msgid "None"
+msgstr "Nenhum"
+
+#: build/block-library/index.js:14
+msgid "Media File"
+msgstr "Arquivo de mídia"
+
+#: build/block-library/index.js:14
+msgid "Attachment Page"
+msgstr "Página de anexo"
+
+#: build/block-library/index.js:14
+msgid "Crop Images"
+msgstr "Recortar imagens"
+
+#: build/block-library/index.js:14
+msgid "Gallery Settings"
+msgstr "Configurações da galeria"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Gallery"
+msgstr "Galeria"
+
+#: build/block-library/index.js:14
+msgid "Classic"
+msgstr "Editor Clássico"
+
+#: build/block-library/index.js:14
+msgid "video"
+msgstr "vídeo"
+
+#: build/block-library/index.js:14
+msgid "audio"
+msgstr "áudio"
+
+#: build/block-library/index.js:14
+msgid "music"
+msgstr "música"
+
+#: build/block-library/index.js:14
+msgid "image"
+msgstr "imagem"
+
+#: build/block-library/index.js:14
+msgid "blog"
+msgstr "blog"
+
+#: build/block-library/index.js:14
+msgid "post"
+msgstr "post"
+
+#: build/block-library/index.js:14
+msgid "Embedded content from %s"
+msgstr "Conteúdo incorporado de %s"
+
+#: build/block-library/index.js:14
+msgid "Enter URL to embed here…"
+msgstr "Digite aqui o URL da mídia a ser incorporada…"
+
+#: build/block-library/index.js:14
+msgid "%s URL"
+msgstr "URL do %s"
+
+#: build/block-library/index.js:14
+msgid "Embedding…"
+msgstr "Incorporando..."
+
+#: build/block-library/index.js:14
+msgid "Write title…"
+msgstr "Escreva o título..."
+
+#: build/block-library/index.js:14
+msgid "Text Alignment"
+msgstr "Alinhamento do texto"
+
+#: build/block-library/index.js:14
+msgid "Fixed Background"
+msgstr "Fundo fixo"
+
+#: build/block-library/index.js:14
+msgid "Edit image"
+msgstr "Editar imagem"
+
+#: build/block-library/index.js:14
+msgid "Columns"
+msgstr "Colunas"
+
+#: gutenberg.php:75
+msgid "Experiments"
+msgstr "Experimental"
+
+#: build/block-library/index.js:14
+msgid "Code"
+msgstr "Código"
+
+#: build/block-library/index.js:14
+msgid "Write code…"
+msgstr "Escreva o código…"
+
+#: build/block-library/index.js:14
+msgid "Categories"
+msgstr "Categorias"
+
+#: build/block-library/index.js:14
+msgid "Show Hierarchy"
+msgstr "Mostrar hierarquia"
+
+#: build/block-library/index.js:14
+msgid "Show post counts"
+msgstr "Mostrar número de posts"
+
+#: build/block-library/index.js:14
+msgid "Categories Settings"
+msgstr "Configurações das categorias"
+
+#: build/block-library/index.js:14
+msgid "Add text…"
+msgstr "Adicionar texto..."
+
+#: build/block-library/index.js:14
+msgid "Button"
+msgstr "Botão"
+
+#: build/block-editor/index.js:55 build/format-library/index.js:1
+msgid "Apply"
+msgstr "Aplicar"
+
+#: build/block-library/index.js:14
+msgid "Text Color"
+msgstr "Cor do texto"
+
+#: build/block-library/index.js:14
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: build/block-library/index.js:14
+msgid "Block has been deleted or is unavailable."
+msgstr "O bloco foi excluído ou está indisponível."
+
+#: build/blocks/index.js:2
+msgid "Reusable Blocks"
+msgstr "Blocos reutilizáveis"
+
+#: build/block-editor/index.js:55
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Edit"
+msgstr "Editar"
+
+#: build/block-library/index.js:14
+msgid "Edit audio"
+msgstr "Editar áudio"
+
+#: build/block-library/index.js:14
+msgid "Write caption…"
+msgstr "Escrever legenda..."
+
+#: build/block-library/index.js:14
+msgid "Use URL"
+msgstr "Usar URL"
+
+#: build/editor/index.js:17 build/block-editor/index.js:55
+#: build/block-library/index.js:14
+msgid "Audio"
+msgstr "Áudio"
+
+#: build/block-editor/index.js:55
+msgid "Upload"
+msgstr "Enviar"
+
+#: build/block-editor/index.js:55
+msgid "Additional CSS Class(es)"
+msgstr "Classes CSS adicionais"
+
+#: build/block-editor/index.js:55
+msgid "HTML Anchor"
+msgstr "Âncora de HTML"
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Essa combinação de cores pode ser difícil para as pessoas lerem. Tente usar uma cor de fundo mais clara e/ou uma cor de texto mais escura."
+
+#: build/block-editor/index.js:55
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Essa combinação de cores pode ser difícil para as pessoas lerem. Tente usar uma cor de fundo mais escura e/ou uma cor de texto mais clara."
+
+#: build/components/index.js:19
+msgid "Clear"
+msgstr "Limpar"
+
+#: build/components/index.js:19
+msgid "Custom color picker"
+msgstr "Seletor de cor personalizado"
+
+#: build/components/index.js:19
+msgid "Color: %s"
+msgstr "Cor: %s"
+
+#: build/block-editor/index.js:55
+msgid "Full Width"
+msgstr "Largura total"
+
+#: build/block-editor/index.js:55
+msgid "Wide Width"
+msgstr "Largura ampla"
+
+#: lib/experiments-page.php:47 build/blocks/index.js:2
+msgid "Widgets"
+msgstr "Widgets"
+
+#: build/blocks/index.js:2
+msgid "Formatting"
+msgstr "Formatação"
+
+#: build/blocks/index.js:2
+msgid "Common Blocks"
+msgstr "Blocos comuns"
+
+#: build/block-editor/index.js:55
+msgid "Align Right"
+msgstr "Alinhar à direita"
+
+#: build/block-editor/index.js:55
+msgid "Align Center"
+msgstr "Alinhar ao centro"
+
+#: build/block-editor/index.js:55
+msgid "Align Left"
+msgstr "Alinhar à esquerda"
+
+#. Description of the plugin
+msgid "Printing since 1440. This is the development plugin for the new block editor in core."
+msgstr "Imprimindo desde 1440. Este é o plugin de desenvolvimento do novo editor de blocos do WordPress."
+
+#: build/editor/index.js:17
+msgid "Add title"
+msgstr "Adicionar título"
+
+#: gutenberg.php:104
+msgid "Gutenberg development mode requires files to be built. Run <code>npm install</code> to install dependencies, <code>npm run build</code> to build the files or <code>npm run dev</code> to build the files and watch for changes. Read the <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contributing</a> file for more information."
+msgstr "O modo de desenvolvimento do Gutenberg requer que os arquivos sejam criados. Execute <code>npm install</code> para instalar as dependências, <code>npm run build</code> para criar os arquivos ou <code>npm run dev</code> para criar os arquivos e observar mudanças. Leia o arquivo de <a href=\"https://github.com/WordPress/gutenberg/blob/master/docs/contributors/getting-started.md\">contribuição</a> para obter mais informações."
+
+#. Author of the plugin
+msgid "Gutenberg Team"
+msgstr "Equipe Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/WordPress/gutenberg"
+msgstr "https://github.com/WordPress/gutenberg"
+
+#. Plugin Name of the plugin
+msgid "Gutenberg"
+msgstr "Gutenberg"
+
+#: build/editor/index.js:17
+msgid "Author"
+msgstr "Autor"
+
+#: build/edit-post/index.js:12
+msgid "Discussion"
+msgstr "Discussão"
+
+#: build/edit-post/index.js:12
+msgid "Custom Fields"
+msgstr "Campos personalizados"
+
+#: build/edit-post/index.js:12
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: build/editor/index.js:17 build/edit-post/index.js:12
+msgid "Publish"
+msgstr "Publicar"
+
+#: build/block-library/index.js:14
+msgid "Metadata"
+msgstr "Metadados"
+
+#: build/editor/index.js:17 build/block-library/index.js:14
+msgid "Save"
+msgstr "Salvar"
+
+#: lib/class-wp-block-styles-registry.php:50
+msgid "Block style name must be a string."
+msgstr "Nomes de estilo de blocos precisam ser strings."
+
+#. translators: %s: Minimum required version
+#: gutenberg.php:91
+msgid "Gutenberg requires WordPress %s or later to function properly. Please upgrade WordPress before activating Gutenberg."
+msgstr "O Gutenberg requer o WordPress %s ou posterior para funcionar corretamente. Atualize o WordPress antes de ativar o Gutenberg."
+
+#: gutenberg.php:66
+msgid "Documentation"
+msgstr "Documentação"
+
+#: gutenberg.php:41 gutenberg.php:42
+msgid "Demo"
+msgstr "Demo"
+
+#: build/block-library/index.js:14
+msgid "(Untitled)"
+msgstr "(sem título)"
+
+#: build/block-library/blocks/categories.php:30
+msgid "Select Category"
+msgstr "Selecionar categoria"
